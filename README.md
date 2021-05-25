@@ -1,3 +1,4 @@
+Information gathering on mapping projects in support of Médecins Sans Frontières (MSF)
 
 # Repo contains
 | filetype | description |
@@ -26,9 +27,16 @@
 * 1106 residential areas (10312 nodes)
 
 ## project 10617
+* 1562 place nodes
+  * 1061-hamlet
+  * 466-village
+  * 35-isolated_dwelling
+* 1625 residential areas (14759 nodes)
+  
 
 ## project 10676
+* mapping still in progress
 
 ## project 10738
-
+* mapping still in progress
 
