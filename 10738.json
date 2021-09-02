@@ -1,0 +1,12025 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-09-02T17:46:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 866601087,
+  "lat": -25.1783980,
+  "lon": 46.0877489,
+  "tags": {
+    "capital": "4",
+    "ele": "127",
+    "is_in:country": "Madagascar",
+    "is_in:region": "Androy",
+    "name": "Ambovombe",
+    "place": "town",
+    "wikidata": "Q458507",
+    "wikipedia": "fr:Ambovombe"
+  }
+},
+{
+  "type": "node",
+  "id": 1866487173,
+  "lat": -25.1466762,
+  "lon": 46.5324985,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1866487175,
+  "lat": -25.1495469,
+  "lon": 46.5246605,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1866487223,
+  "lat": -25.1513269,
+  "lon": 46.5376955,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1866487240,
+  "lat": -25.1518056,
+  "lon": 46.5072056,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1866487248,
+  "lat": -25.1521668,
+  "lon": 46.5201054,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1866487432,
+  "lat": -25.1580484,
+  "lon": 46.5157935,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1968244794,
+  "lat": -24.9330313,
+  "lon": 46.1757168,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1968403635,
+  "lat": -24.8797315,
+  "lon": 46.2210934,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1968403857,
+  "lat": -24.8820756,
+  "lon": 46.2301893,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 1969777310,
+  "lat": -24.7832960,
+  "lon": 46.0515836,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1969777508,
+  "lat": -24.7924462,
+  "lon": 46.0079924,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1969777807,
+  "lat": -24.7982466,
+  "lon": 46.0343242,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1969777950,
+  "lat": -24.8002377,
+  "lon": 46.0350904,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1969778027,
+  "lat": -24.8008934,
+  "lon": 46.0434241,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1969848704,
+  "lat": -24.8933045,
+  "lon": 46.2038540,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1970060158,
+  "lat": -24.9014602,
+  "lon": 46.1821858,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1970061893,
+  "lat": -24.9090253,
+  "lon": 46.1621334,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1988359796,
+  "lat": -24.8870520,
+  "lon": 46.2075570,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1989421957,
+  "lat": -24.8856232,
+  "lon": 46.1241138,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1989754719,
+  "lat": -24.8803686,
+  "lon": 46.0053765,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1989821507,
+  "lat": -24.8660838,
+  "lon": 46.0214915,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1990715602,
+  "lat": -24.8052148,
+  "lon": 46.0602112,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1990837043,
+  "lat": -24.8940720,
+  "lon": 46.1257730,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1994503243,
+  "lat": -24.9277527,
+  "lon": 46.2129866,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1994503432,
+  "lat": -24.9488674,
+  "lon": 46.2435751,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1994504895,
+  "lat": -24.9848998,
+  "lon": 46.2493268,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1994504969,
+  "lat": -24.9871598,
+  "lon": 46.2244822,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1995273300,
+  "lat": -25.0359198,
+  "lon": 46.3853238,
+  "tags": {
+    "alt_name": "Amboasary Atsimo",
+    "is_in:country": "Madagascar",
+    "is_in:region": "Anosy",
+    "name": "Amboasary",
+    "place": "town",
+    "wikipedia": "fr:Amboasary"
+  }
+},
+{
+  "type": "node",
+  "id": 1995273304,
+  "lat": -24.9569386,
+  "lon": 46.3871497,
+  "tags": {
+    "name": "Behara",
+    "place": "village",
+    "wikidata": "Q2893874"
+  }
+},
+{
+  "type": "node",
+  "id": 1995273308,
+  "lat": -24.8011630,
+  "lon": 46.1382130,
+  "tags": {
+    "name": "Ifotaka",
+    "place": "village",
+    "wikidata": "Q3148106"
+  }
+},
+{
+  "type": "node",
+  "id": 1998397521,
+  "lat": -24.8087085,
+  "lon": 46.0822061,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2004123799,
+  "lat": -24.9942052,
+  "lon": 46.2479105,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2004123820,
+  "lat": -24.9943292,
+  "lon": 46.2786875,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2004123911,
+  "lat": -24.9948931,
+  "lon": 46.2749248,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2004124110,
+  "lat": -24.9958528,
+  "lon": 46.2709850,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2004124116,
+  "lat": -24.9958809,
+  "lon": 46.2952656,
+  "tags": {
+    "is_in:country": "Madagascar",
+    "is_in:region": "Anosy",
+    "name": "Berenty",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2004124331,
+  "lat": -24.9966935,
+  "lon": 46.2735444,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2004125081,
+  "lat": -25.0009031,
+  "lon": 46.2862805,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2004212502,
+  "lat": -24.9906194,
+  "lon": 46.2253631,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2004212716,
+  "lat": -24.9941765,
+  "lon": 46.2272871,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2004745791,
+  "lat": -24.9519842,
+  "lon": 46.3888342,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2004745806,
+  "lat": -24.9858549,
+  "lon": 46.4022717,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2007131021,
+  "lat": -24.9434179,
+  "lon": 46.1815984,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2023028019,
+  "lat": -24.9477583,
+  "lon": 46.1295994,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2054181165,
+  "lat": -25.0629224,
+  "lon": 46.3347630,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2097862544,
+  "lat": -25.0146893,
+  "lon": 46.5877170,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2097862729,
+  "lat": -25.0489263,
+  "lon": 46.5959662,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2097862855,
+  "lat": -25.0917087,
+  "lon": 46.5671503,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2097863026,
+  "lat": -25.1226028,
+  "lon": 46.5244995,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2156290302,
+  "lat": -24.7559062,
+  "lon": 46.0574707,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2180008304,
+  "lat": -24.7435713,
+  "lon": 46.0489236,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323319204,
+  "lat": -25.0136623,
+  "lon": 46.6525360,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323319216,
+  "lat": -25.0163993,
+  "lon": 46.6536221,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2323319433,
+  "lat": -25.0413622,
+  "lon": 46.6129085,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2323319447,
+  "lat": -25.0419138,
+  "lon": 46.6156112,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2323319823,
+  "lat": -25.0793741,
+  "lon": 46.4800079,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323319936,
+  "lat": -25.0832280,
+  "lon": 46.4859514,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323320047,
+  "lat": -25.0974877,
+  "lon": 46.4716887,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2323320116,
+  "lat": -25.1448693,
+  "lon": 46.3672978,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2323320117,
+  "lat": -25.1456924,
+  "lon": 46.4069001,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323320119,
+  "lat": -25.1506275,
+  "lon": 46.5106560,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2323320135,
+  "lat": -25.1547734,
+  "lon": 46.4721623,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323441066,
+  "lat": -24.9986548,
+  "lon": 46.3908143,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323441230,
+  "lat": -25.0082053,
+  "lon": 46.3558444,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323441329,
+  "lat": -25.0142567,
+  "lon": 46.3775326,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2323441808,
+  "lat": -25.0518468,
+  "lon": 46.4041219,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323441883,
+  "lat": -25.0646317,
+  "lon": 46.3880392,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323441929,
+  "lat": -25.0698548,
+  "lon": 46.3968832,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323442048,
+  "lat": -25.0859573,
+  "lon": 46.4069519,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323442234,
+  "lat": -25.1057142,
+  "lon": 46.2821040,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323442241,
+  "lat": -25.1080518,
+  "lon": 46.2756012,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2323442256,
+  "lat": -25.1113768,
+  "lon": 46.4366739,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323442261,
+  "lat": -25.1186226,
+  "lon": 46.2685130,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2323442263,
+  "lat": -25.1328427,
+  "lon": 46.2050503,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2323733581,
+  "lat": -25.0480903,
+  "lon": 46.3190913,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323733623,
+  "lat": -25.0544627,
+  "lon": 46.3095134,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2323733631,
+  "lat": -25.0567113,
+  "lon": 46.3034276,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2323733952,
+  "lat": -25.3006816,
+  "lon": 45.7355556,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106459,
+  "lat": -25.0216952,
+  "lon": 46.1120806,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106468,
+  "lat": -25.0227404,
+  "lon": 46.1682985,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106470,
+  "lat": -25.0228101,
+  "lon": 46.2677211,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106576,
+  "lat": -25.0489908,
+  "lon": 46.2802155,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106629,
+  "lat": -25.0550587,
+  "lon": 46.2872352,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106702,
+  "lat": -25.0588573,
+  "lon": 46.2398457,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106730,
+  "lat": -25.0600369,
+  "lon": 46.2609445,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106780,
+  "lat": -25.0644297,
+  "lon": 46.2583501,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2324106793,
+  "lat": -25.0693600,
+  "lon": 46.2507237,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324272480,
+  "lat": -25.0561636,
+  "lon": 46.5629422,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324272865,
+  "lat": -25.0841157,
+  "lon": 46.4708295,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324598446,
+  "lat": -25.0066502,
+  "lon": 46.5973852,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2324599437,
+  "lat": -25.0601810,
+  "lon": 46.3190613,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324599559,
+  "lat": -25.0615892,
+  "lon": 46.3172546,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324599633,
+  "lat": -25.0629932,
+  "lon": 46.3080788,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324599664,
+  "lat": -25.0639195,
+  "lon": 46.3097388,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324599671,
+  "lat": -25.0639984,
+  "lon": 46.3047589,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2324599848,
+  "lat": -25.0670856,
+  "lon": 46.3046107,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324826322,
+  "lat": -24.9822833,
+  "lon": 46.3582932,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2324826334,
+  "lat": -24.9894209,
+  "lon": 46.3119498,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2325141370,
+  "lat": -25.0146449,
+  "lon": 46.3750308,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326015703,
+  "lat": -24.8295351,
+  "lon": 46.5359828,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2326015849,
+  "lat": -24.8399776,
+  "lon": 46.4947947,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326015925,
+  "lat": -24.8432839,
+  "lon": 46.6695671,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2326015970,
+  "lat": -24.8455058,
+  "lon": 46.6699138,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2326015996,
+  "lat": -24.8461455,
+  "lon": 46.6778542,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2326016880,
+  "lat": -24.8958742,
+  "lon": 46.4258014,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2326017490,
+  "lat": -24.9584081,
+  "lon": 46.4144773,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326017652,
+  "lat": -24.9785644,
+  "lon": 46.3973163,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326376087,
+  "lat": -24.9559759,
+  "lon": 46.4165235,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326376495,
+  "lat": -24.9737061,
+  "lon": 46.3585899,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326376692,
+  "lat": -24.9784607,
+  "lon": 46.3500353,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326376720,
+  "lat": -24.9792577,
+  "lon": 46.3384924,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326377215,
+  "lat": -25.0781028,
+  "lon": 46.5899488,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2326685861,
+  "lat": -24.9931391,
+  "lon": 46.5043369,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326728838,
+  "lat": -24.8535234,
+  "lon": 46.6722784,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2326728843,
+  "lat": -24.8536247,
+  "lon": 46.6700552,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2326729800,
+  "lat": -24.9413521,
+  "lon": 46.6339876,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2326730080,
+  "lat": -24.9997542,
+  "lon": 46.6131570,
+  "tags": {
+    "name": "Ankariera",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2327533257,
+  "lat": -25.1227800,
+  "lon": 46.4897355,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2327534091,
+  "lat": -25.1427946,
+  "lon": 46.4431216,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2354023053,
+  "lat": -25.0854894,
+  "lon": 46.3654756,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2356653834,
+  "lat": -25.1363359,
+  "lon": 46.1455517,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2358848881,
+  "lat": -25.1848291,
+  "lon": 45.7493007,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360007605,
+  "lat": -25.0247147,
+  "lon": 46.2105742,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360008318,
+  "lat": -25.1162657,
+  "lon": 46.1132116,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360557849,
+  "lat": -24.9869244,
+  "lon": 46.0944034,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360561473,
+  "lat": -25.1205019,
+  "lon": 45.9560036,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2360561527,
+  "lat": -25.1238149,
+  "lon": 45.9871835,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360561814,
+  "lat": -25.1344634,
+  "lon": 45.8571020,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360563209,
+  "lat": -25.1590055,
+  "lon": 45.8663114,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360564258,
+  "lat": -25.1821113,
+  "lon": 45.7713954,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2360565100,
+  "lat": -25.2265153,
+  "lon": 45.7998952,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360565136,
+  "lat": -25.2337177,
+  "lon": 45.8022492,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360565244,
+  "lat": -25.2776592,
+  "lon": 45.8113330,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360565352,
+  "lat": -25.2966746,
+  "lon": 45.7920877,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360565367,
+  "lat": -25.2977710,
+  "lon": 45.8042003,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360565408,
+  "lat": -25.2991615,
+  "lon": 45.7608605,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360565548,
+  "lat": -25.3029782,
+  "lon": 45.7704089,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2360565656,
+  "lat": -25.3143058,
+  "lon": 45.7682399,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360566166,
+  "lat": -25.3939060,
+  "lon": 45.7561974,
+  "tags": {
+    "is_in": "Androy",
+    "is_in:district": "Tsiombe",
+    "name": "Antaritarika",
+    "place": "village",
+    "source": "http://www.fallingrain.com/world/MA/06/Antaritarika.html",
+    "wikidata": "Q2852635",
+    "wikipedia": "en:Antaritarika"
+  }
+},
+{
+  "type": "node",
+  "id": 2360658476,
+  "lat": -24.9789414,
+  "lon": 45.9420866,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360658536,
+  "lat": -24.9806583,
+  "lon": 45.9976414,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360660260,
+  "lat": -25.0908697,
+  "lon": 45.9323961,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360775820,
+  "lat": -25.1307458,
+  "lon": 45.9310510,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360776557,
+  "lat": -25.1524262,
+  "lon": 45.9277900,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360776641,
+  "lat": -25.1536463,
+  "lon": 45.9280084,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360777364,
+  "lat": -25.2113527,
+  "lon": 46.0460936,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360901855,
+  "lat": -25.2346335,
+  "lon": 45.9245501,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360901934,
+  "lat": -25.2385500,
+  "lon": 45.9196706,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360902042,
+  "lat": -25.2439609,
+  "lon": 45.9107512,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2360902277,
+  "lat": -25.2567893,
+  "lon": 45.9112808,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2360902319,
+  "lat": -25.2574833,
+  "lon": 45.9375166,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361474163,
+  "lat": -25.3498359,
+  "lon": 45.7583701,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361750098,
+  "lat": -25.2634900,
+  "lon": 45.7603081,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361750232,
+  "lat": -25.2642374,
+  "lon": 45.7692411,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361750557,
+  "lat": -25.2655265,
+  "lon": 45.7848305,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361750856,
+  "lat": -25.2663749,
+  "lon": 45.7599835,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361753122,
+  "lat": -25.2922086,
+  "lon": 45.7713466,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361753740,
+  "lat": -25.3092028,
+  "lon": 45.7564061,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361753871,
+  "lat": -25.3116014,
+  "lon": 45.7645575,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2361754259,
+  "lat": -25.3178027,
+  "lon": 45.7652404,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2361754717,
+  "lat": -25.3250758,
+  "lon": 45.7627251,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362050853,
+  "lat": -25.1823695,
+  "lon": 45.7257130,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2362051329,
+  "lat": -25.1935312,
+  "lon": 45.8102217,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362051857,
+  "lat": -25.2152658,
+  "lon": 45.7547045,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362052904,
+  "lat": -25.2452079,
+  "lon": 45.7359344,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362053671,
+  "lat": -25.2602306,
+  "lon": 45.7689845,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362107275,
+  "lat": -25.2512322,
+  "lon": 45.8353495,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362792638,
+  "lat": -25.1776407,
+  "lon": 45.7830688,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362792870,
+  "lat": -25.2133271,
+  "lon": 45.7703783,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2362792913,
+  "lat": -25.2301636,
+  "lon": 45.8203525,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362793199,
+  "lat": -25.2503041,
+  "lon": 45.8165911,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362793272,
+  "lat": -25.2547872,
+  "lon": 45.8180877,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362793817,
+  "lat": -25.2762658,
+  "lon": 45.8145389,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362793843,
+  "lat": -25.2775095,
+  "lon": 45.8264083,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362793848,
+  "lat": -25.2778001,
+  "lon": 45.8370982,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362793866,
+  "lat": -25.2786659,
+  "lon": 45.8158842,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362793868,
+  "lat": -25.2787942,
+  "lon": 45.8954488,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362793909,
+  "lat": -25.2798465,
+  "lon": 45.8400560,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362794207,
+  "lat": -25.2883551,
+  "lon": 45.8400363,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362794263,
+  "lat": -25.2905753,
+  "lon": 45.8329375,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362794506,
+  "lat": -25.3030518,
+  "lon": 45.7673941,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362794521,
+  "lat": -25.3038130,
+  "lon": 45.8058865,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362794844,
+  "lat": -25.3156807,
+  "lon": 45.8435510,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362990247,
+  "lat": -25.2732182,
+  "lon": 45.8648150,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362990520,
+  "lat": -25.2849224,
+  "lon": 45.8496205,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2362990642,
+  "lat": -25.2873496,
+  "lon": 45.8407233,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363144562,
+  "lat": -25.2923282,
+  "lon": 45.8514907,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2363144563,
+  "lat": -25.2924301,
+  "lon": 45.7963261,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363144656,
+  "lat": -25.2948904,
+  "lon": 45.8557318,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363144918,
+  "lat": -25.3101176,
+  "lon": 45.8586573,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363209240,
+  "lat": -25.0674135,
+  "lon": 45.8646645,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363209282,
+  "lat": -25.1043516,
+  "lon": 45.8470854,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363209781,
+  "lat": -25.1358117,
+  "lon": 45.8381519,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363210424,
+  "lat": -25.1790103,
+  "lon": 45.8276970,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2363210650,
+  "lat": -25.2138742,
+  "lon": 45.8141340,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363383682,
+  "lat": -25.1667876,
+  "lon": 45.8105887,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2363383729,
+  "lat": -25.1715985,
+  "lon": 45.8136234,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2364073727,
+  "lat": -25.1669117,
+  "lon": 45.8957088,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364073858,
+  "lat": -25.1750126,
+  "lon": 45.9082426,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364537998,
+  "lat": -25.3789816,
+  "lon": 45.8321371,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364577140,
+  "lat": -25.3527898,
+  "lon": 45.8283311,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364577402,
+  "lat": -25.3644161,
+  "lon": 45.8038686,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364577596,
+  "lat": -25.3753857,
+  "lon": 45.8005110,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364577662,
+  "lat": -25.3777953,
+  "lon": 45.8010817,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364577687,
+  "lat": -25.3796955,
+  "lon": 45.8003736,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364577725,
+  "lat": -25.3822077,
+  "lon": 45.8005899,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364577832,
+  "lat": -25.3869626,
+  "lon": 45.8282833,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364578244,
+  "lat": -25.3971575,
+  "lon": 45.8073025,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364615916,
+  "lat": -25.3796678,
+  "lon": 45.8270937,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364615925,
+  "lat": -25.3800169,
+  "lon": 45.8300713,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364633525,
+  "lat": -25.3788560,
+  "lon": 45.7726237,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364633570,
+  "lat": -25.3814058,
+  "lon": 45.7830687,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364633580,
+  "lat": -25.3819503,
+  "lon": 45.7704648,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2364633788,
+  "lat": -25.3930581,
+  "lon": 45.7668538,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2364674075,
+  "lat": -25.3789029,
+  "lon": 45.7247024,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364674157,
+  "lat": -25.3903991,
+  "lon": 45.7098565,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364674190,
+  "lat": -25.3942202,
+  "lon": 45.7526645,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364674367,
+  "lat": -25.3979514,
+  "lon": 45.7489412,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364674474,
+  "lat": -25.4018619,
+  "lon": 45.7494822,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364674512,
+  "lat": -25.4033144,
+  "lon": 45.7525397,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2364674729,
+  "lat": -25.4155350,
+  "lon": 45.7246672,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365331957,
+  "lat": -25.3424540,
+  "lon": 45.7365420,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365332372,
+  "lat": -25.3453245,
+  "lon": 45.7302479,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365494174,
+  "lat": -25.3026397,
+  "lon": 45.7131663,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365494341,
+  "lat": -25.3190675,
+  "lon": 45.7061970,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365494656,
+  "lat": -25.3634174,
+  "lon": 45.7073335,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365494671,
+  "lat": -25.3641068,
+  "lon": 45.7404016,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365494762,
+  "lat": -25.3697913,
+  "lon": 45.7172967,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365494815,
+  "lat": -25.3741544,
+  "lon": 45.7058125,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365494867,
+  "lat": -25.3763192,
+  "lon": 45.7206337,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365569332,
+  "lat": -25.3263329,
+  "lon": 45.7907853,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365569516,
+  "lat": -25.3393381,
+  "lon": 45.8283847,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2365570433,
+  "lat": -25.3567972,
+  "lon": 45.8436543,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365600595,
+  "lat": -25.4279413,
+  "lon": 45.7523521,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365600796,
+  "lat": -25.4309035,
+  "lon": 45.7546784,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2365601396,
+  "lat": -25.4443172,
+  "lon": 45.7124893,
+  "tags": {
+    "name": "Talaki",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2367856336,
+  "lat": -25.2719828,
+  "lon": 45.7894178,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367856469,
+  "lat": -25.2841626,
+  "lon": 45.8026258,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367856488,
+  "lat": -25.2846674,
+  "lon": 45.7811344,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938329,
+  "lat": -25.0763596,
+  "lon": 46.2143322,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938332,
+  "lat": -25.0764707,
+  "lon": 46.2339340,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938335,
+  "lat": -25.0801803,
+  "lon": 46.1972909,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938337,
+  "lat": -25.1018632,
+  "lon": 46.1429508,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938340,
+  "lat": -25.1172151,
+  "lon": 46.2164342,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938342,
+  "lat": -25.1177177,
+  "lon": 46.2258891,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938347,
+  "lat": -25.1205004,
+  "lon": 46.2404819,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938349,
+  "lat": -25.1269743,
+  "lon": 46.2068990,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938352,
+  "lat": -25.1285971,
+  "lon": 46.1101118,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938354,
+  "lat": -25.1315162,
+  "lon": 46.1825684,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938355,
+  "lat": -25.1326165,
+  "lon": 46.1927486,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938387,
+  "lat": -25.1347134,
+  "lon": 46.1872675,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2367938441,
+  "lat": -25.1366490,
+  "lon": 46.1850538,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2368277183,
+  "lat": -25.1307296,
+  "lon": 46.1544041,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2368277956,
+  "lat": -25.1494853,
+  "lon": 46.1845737,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2368498648,
+  "lat": -25.1380973,
+  "lon": 46.1929872,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2368499318,
+  "lat": -25.1528676,
+  "lon": 46.5276455,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2368742599,
+  "lat": -25.3097049,
+  "lon": 45.8492170,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2370256952,
+  "lat": -25.2327667,
+  "lon": 45.8000060,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370257093,
+  "lat": -25.2382901,
+  "lon": 45.8120742,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370257247,
+  "lat": -25.2480414,
+  "lon": 45.7788193,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370257287,
+  "lat": -25.2498027,
+  "lon": 45.8112576,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370257481,
+  "lat": -25.2557633,
+  "lon": 45.7854756,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370257519,
+  "lat": -25.2568178,
+  "lon": 45.7820248,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370302551,
+  "lat": -25.2959509,
+  "lon": 45.8067612,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370302678,
+  "lat": -25.2982031,
+  "lon": 45.7916196,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370302737,
+  "lat": -25.2991935,
+  "lon": 45.7939302,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370302769,
+  "lat": -25.2996618,
+  "lon": 45.8161170,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370302897,
+  "lat": -25.3012933,
+  "lon": 45.8176421,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370303429,
+  "lat": -25.3205030,
+  "lon": 45.7830768,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370747194,
+  "lat": -25.3320533,
+  "lon": 45.7500958,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370747222,
+  "lat": -25.3375458,
+  "lon": 45.7407770,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370773829,
+  "lat": -25.3763828,
+  "lon": 45.7341242,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370913844,
+  "lat": -25.1596536,
+  "lon": 46.4169321,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370913847,
+  "lat": -25.1597909,
+  "lon": 46.4185802,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370913887,
+  "lat": -25.1623783,
+  "lon": 46.4233764,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370913891,
+  "lat": -25.1748590,
+  "lon": 46.2694187,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2370913899,
+  "lat": -25.1758533,
+  "lon": 46.2807564,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2371053527,
+  "lat": -25.4148674,
+  "lon": 45.7173717,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2371576779,
+  "lat": -25.4266027,
+  "lon": 45.7405577,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2371576845,
+  "lat": -25.4286787,
+  "lon": 45.7475204,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2371936178,
+  "lat": -25.3389245,
+  "lon": 45.8496234,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2371936210,
+  "lat": -25.3438297,
+  "lon": 45.8606829,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2374523606,
+  "lat": -25.1384959,
+  "lon": 45.7942262,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2374523944,
+  "lat": -25.1605947,
+  "lon": 45.7861118,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2375311693,
+  "lat": -25.1380162,
+  "lon": 46.2877461,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2378042674,
+  "lat": -25.0938664,
+  "lon": 46.0399695,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2378091944,
+  "lat": -25.0173044,
+  "lon": 46.1022491,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2378092084,
+  "lat": -25.0185225,
+  "lon": 46.1042990,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2378106217,
+  "lat": -24.9970262,
+  "lon": 46.0512950,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2378714951,
+  "lat": -25.2112792,
+  "lon": 45.7470349,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2378732764,
+  "lat": -25.3286338,
+  "lon": 45.7614527,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2382049631,
+  "lat": -24.9109249,
+  "lon": 45.9539498,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2382050215,
+  "lat": -24.9226720,
+  "lon": 46.0070827,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2382431339,
+  "lat": -25.2688374,
+  "lon": 45.8765106,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2382431655,
+  "lat": -25.2796699,
+  "lon": 45.9071872,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2382625268,
+  "lat": -25.3191981,
+  "lon": 45.8455085,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2382625271,
+  "lat": -25.3194743,
+  "lon": 45.8608283,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2382625824,
+  "lat": -25.3647391,
+  "lon": 45.7337209,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2382625888,
+  "lat": -25.3686302,
+  "lon": 45.7316371,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2387111271,
+  "lat": -25.3085249,
+  "lon": 45.7870621,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2387111529,
+  "lat": -25.3173784,
+  "lon": 45.7826265,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2387111731,
+  "lat": -25.3237870,
+  "lon": 45.7822346,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2387806431,
+  "lat": -25.3302676,
+  "lon": 45.7885502,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2395898357,
+  "lat": -25.3798909,
+  "lon": 45.8204239,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2395898409,
+  "lat": -25.3830295,
+  "lon": 45.8243857,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2397513815,
+  "lat": -25.0780850,
+  "lon": 46.5109653,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2397514617,
+  "lat": -25.1249022,
+  "lon": 46.3056237,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2397514657,
+  "lat": -25.1255794,
+  "lon": 46.2824310,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2397514682,
+  "lat": -25.1257751,
+  "lon": 46.2830794,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2397514684,
+  "lat": -25.1258279,
+  "lon": 46.3051810,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2397514693,
+  "lat": -25.1261445,
+  "lon": 46.2836086,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2397514743,
+  "lat": -25.1279370,
+  "lon": 46.3052021,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2397514816,
+  "lat": -25.1298169,
+  "lon": 46.3068359,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2397627916,
+  "lat": -25.0991122,
+  "lon": 46.4419118,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2398123749,
+  "lat": -25.1207837,
+  "lon": 46.4872161,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2398123780,
+  "lat": -25.1225206,
+  "lon": 46.4918487,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2398132957,
+  "lat": -25.1420995,
+  "lon": 46.5541874,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2398723116,
+  "lat": -24.9629107,
+  "lon": 46.1778700,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2398723330,
+  "lat": -25.1023188,
+  "lon": 46.1342409,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2399501725,
+  "lat": -24.9095614,
+  "lon": 46.2504802,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2420129933,
+  "lat": -25.2280941,
+  "lon": 45.9644503,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2420130010,
+  "lat": -25.2458888,
+  "lon": 46.0836012,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2420130127,
+  "lat": -25.2661547,
+  "lon": 45.8802646,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2421848410,
+  "lat": -24.8392597,
+  "lon": 46.1953935,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2421848429,
+  "lat": -24.9429584,
+  "lon": 46.2617878,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2421848483,
+  "lat": -24.9680489,
+  "lon": 46.3052435,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2421848488,
+  "lat": -24.9702424,
+  "lon": 46.3007964,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2421848498,
+  "lat": -24.9825882,
+  "lon": 46.3983695,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2452028670,
+  "lat": -25.2296635,
+  "lon": 45.8011221,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2452468207,
+  "lat": -25.3245077,
+  "lon": 45.8003762,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2452468421,
+  "lat": -25.3361307,
+  "lon": 45.7319853,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2452468426,
+  "lat": -25.3361776,
+  "lon": 45.7411105,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2452477491,
+  "lat": -25.2434143,
+  "lon": 45.7346978,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2455804981,
+  "lat": -25.0279617,
+  "lon": 46.4883794,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2455805051,
+  "lat": -25.0287983,
+  "lon": 46.4892066,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2455805785,
+  "lat": -25.0454577,
+  "lon": 46.4704799,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2456014730,
+  "lat": -25.0567547,
+  "lon": 46.4016252,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2456458244,
+  "lat": -24.9628307,
+  "lon": 46.3812782,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2457284205,
+  "lat": -25.1684217,
+  "lon": 45.9045897,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2457284542,
+  "lat": -25.1739523,
+  "lon": 45.9065248,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2457284621,
+  "lat": -25.1744890,
+  "lon": 45.9093173,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2457691692,
+  "lat": -25.1497505,
+  "lon": 45.9447460,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2457691963,
+  "lat": -25.1530262,
+  "lon": 45.9528247,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2457692856,
+  "lat": -25.1703436,
+  "lon": 45.9314643,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2457945925,
+  "lat": -25.1346492,
+  "lon": 45.8607619,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2457945932,
+  "lat": -25.1365323,
+  "lon": 45.8567590,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2457946003,
+  "lat": -25.1415976,
+  "lon": 45.8591874,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2457946057,
+  "lat": -25.1485085,
+  "lon": 45.8566019,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2457946186,
+  "lat": -25.1534020,
+  "lon": 45.8752840,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2457946241,
+  "lat": -25.1563263,
+  "lon": 45.8649787,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2457952725,
+  "lat": -25.1500089,
+  "lon": 45.8520650,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2457952730,
+  "lat": -25.1512865,
+  "lon": 45.8532286,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2457952792,
+  "lat": -25.1584104,
+  "lon": 45.8495080,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2458068744,
+  "lat": -25.0871287,
+  "lon": 45.8518526,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2458068933,
+  "lat": -25.1170970,
+  "lon": 45.8465556,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2458069386,
+  "lat": -25.1395493,
+  "lon": 45.8454820,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2458069450,
+  "lat": -25.1400492,
+  "lon": 45.8433228,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2458069476,
+  "lat": -25.1404978,
+  "lon": 45.8489976,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2458069673,
+  "lat": -25.1439696,
+  "lon": 45.8466748,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2458069677,
+  "lat": -25.1440763,
+  "lon": 45.8555087,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2463287679,
+  "lat": -25.0641408,
+  "lon": 46.3176025,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 2509092797,
+  "lat": -24.7901830,
+  "lon": 46.1052774,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2509092798,
+  "lat": -24.7912256,
+  "lon": 46.1093259,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2654424098,
+  "lat": -25.0974877,
+  "lon": 46.4716887,
+  "tags": {
+    "name": "Antsovela",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2663307985,
+  "lat": -25.1367627,
+  "lon": 46.4459381,
+  "tags": {
+    "name": "Tanandava Sud",
+    "place": "village",
+    "source": "bing tiles 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2667553041,
+  "lat": -25.0069252,
+  "lon": 46.5941321,
+  "tags": {
+    "name": "Bevilany",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2673424431,
+  "lat": -25.1554731,
+  "lon": 46.5083606,
+  "tags": {
+    "name": "Maroloha",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2677666032,
+  "lat": -25.0489263,
+  "lon": 46.5959662,
+  "tags": {
+    "name": "Beronga",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2682385093,
+  "lat": -25.0841157,
+  "lon": 46.4708295,
+  "tags": {
+    "name": "Toby",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3553962244,
+  "lat": -25.0004050,
+  "lon": 46.6329654,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3743113164,
+  "lat": -24.7591709,
+  "lon": 46.3164831,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3743113183,
+  "lat": -24.7662106,
+  "lon": 46.2950574,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3815997884,
+  "lat": -25.0799303,
+  "lon": 46.5914346,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6336190221,
+  "lat": -25.3954831,
+  "lon": 45.8086772,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6336190281,
+  "lat": -25.3949432,
+  "lon": 45.8080572,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6336190282,
+  "lat": -25.3851622,
+  "lon": 45.8090243,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6336190360,
+  "lat": -25.3812091,
+  "lon": 45.8005473,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6336190544,
+  "lat": -25.3792700,
+  "lon": 45.7976864,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6336190545,
+  "lat": -25.3797784,
+  "lon": 45.7987488,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 6336199575,
+  "lat": -25.3750640,
+  "lon": 45.7994094,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 7448407500,
+  "lat": -24.9493708,
+  "lon": 46.3875603,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 7448407922,
+  "lat": -24.7973341,
+  "lon": 46.4563000,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8651195366,
+  "lat": -25.1520598,
+  "lon": 46.3748333,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8651195367,
+  "lat": -25.1507403,
+  "lon": 46.3752745,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8697752986,
+  "lat": -25.3695791,
+  "lon": 45.7085487,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8697776544,
+  "lat": -24.9182535,
+  "lon": 46.6401733,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8698434879,
+  "lat": -24.7819950,
+  "lon": 46.4630152,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699189612,
+  "lat": -25.2370428,
+  "lon": 46.1474597,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699197448,
+  "lat": -24.9107558,
+  "lon": 45.9547269,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8699213119,
+  "lat": -25.3417474,
+  "lon": 45.8689418,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8699213120,
+  "lat": -25.3406784,
+  "lon": 45.8683799,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699213149,
+  "lat": -25.3399838,
+  "lon": 45.8685771,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699213184,
+  "lat": -25.3394251,
+  "lon": 45.8660424,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699213215,
+  "lat": -25.3392663,
+  "lon": 45.8641487,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699215169,
+  "lat": -25.2839341,
+  "lon": 45.7734013,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699215170,
+  "lat": -25.2843314,
+  "lon": 45.7754491,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699227544,
+  "lat": -25.1496872,
+  "lon": 46.2014403,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699277061,
+  "lat": -25.3012169,
+  "lon": 45.7117161,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699277258,
+  "lat": -25.1398781,
+  "lon": 45.8550926,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8699286424,
+  "lat": -25.3014861,
+  "lon": 45.7132114,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699301312,
+  "lat": -25.3005417,
+  "lon": 45.7355395,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8699373873,
+  "lat": -25.0400986,
+  "lon": 46.6134399,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699373914,
+  "lat": -25.0419710,
+  "lon": 46.6116120,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699606605,
+  "lat": -25.1209995,
+  "lon": 46.1123094,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699691210,
+  "lat": -25.0829992,
+  "lon": 46.3672698,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8699728994,
+  "lat": -25.0990303,
+  "lon": 45.9879860,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8699728999,
+  "lat": -25.0976482,
+  "lon": 45.9882197,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8700997450,
+  "lat": -24.8514459,
+  "lon": 46.8229037,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701064351,
+  "lat": -24.9159705,
+  "lon": 46.6570134,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701125414,
+  "lat": -25.0352870,
+  "lon": 46.2088634,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701135393,
+  "lat": -24.8609043,
+  "lon": 46.4314597,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8701484704,
+  "lat": -24.7969485,
+  "lon": 46.0058148,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701542464,
+  "lat": -25.0206031,
+  "lon": 45.8422762,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701575574,
+  "lat": -25.0384649,
+  "lon": 45.8828596,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701580118,
+  "lat": -25.0290494,
+  "lon": 45.8941736,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701636411,
+  "lat": -25.0997829,
+  "lon": 45.9743623,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701723666,
+  "lat": -24.9055653,
+  "lon": 46.0449238,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701723675,
+  "lat": -24.9043788,
+  "lon": 46.0463502,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701750159,
+  "lat": -25.0022975,
+  "lon": 46.2255530,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8701750160,
+  "lat": -25.0062223,
+  "lon": 46.2255546,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701767749,
+  "lat": -24.9896154,
+  "lon": 45.9612613,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701792139,
+  "lat": -24.7161255,
+  "lon": 46.1739211,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701839446,
+  "lat": -24.9322385,
+  "lon": 46.0653895,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701883059,
+  "lat": -25.1747919,
+  "lon": 45.8918651,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8701904140,
+  "lat": -25.1239898,
+  "lon": 46.0290171,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701931684,
+  "lat": -25.1173792,
+  "lon": 46.2476126,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8701958748,
+  "lat": -25.1272026,
+  "lon": 46.0204102,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8701990067,
+  "lat": -25.1328609,
+  "lon": 46.0193187,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8701996747,
+  "lat": -25.1367298,
+  "lon": 46.2595813,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8702007862,
+  "lat": -25.1497381,
+  "lon": 46.2581369,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702009920,
+  "lat": -25.3455131,
+  "lon": 45.8759824,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702017174,
+  "lat": -25.1514384,
+  "lon": 46.5410761,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702032148,
+  "lat": -25.1136844,
+  "lon": 46.5573461,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702061537,
+  "lat": -25.1541654,
+  "lon": 46.2565732,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8702061604,
+  "lat": -25.1530753,
+  "lon": 46.2596376,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702081504,
+  "lat": -25.0939588,
+  "lon": 46.4773013,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8702109650,
+  "lat": -24.9037489,
+  "lon": 46.1171369,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8702109658,
+  "lat": -24.9062063,
+  "lon": 46.1207226,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702109665,
+  "lat": -24.9055696,
+  "lon": 46.1236485,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702109673,
+  "lat": -24.9046641,
+  "lon": 46.1229127,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702109681,
+  "lat": -24.9031610,
+  "lon": 46.1222644,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702197883,
+  "lat": -25.1175171,
+  "lon": 45.8423631,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702205975,
+  "lat": -24.8127047,
+  "lon": 46.6061389,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702225891,
+  "lat": -24.7857647,
+  "lon": 46.3150686,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702226134,
+  "lat": -25.2517200,
+  "lon": 45.9757232,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702237341,
+  "lat": -24.9551458,
+  "lon": 46.2954179,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702254150,
+  "lat": -25.1176303,
+  "lon": 45.7919108,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702278058,
+  "lat": -25.1182524,
+  "lon": 46.1429881,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702278065,
+  "lat": -25.1124300,
+  "lon": 46.1404182,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702295354,
+  "lat": -24.9338042,
+  "lon": 46.0362989,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702302051,
+  "lat": -25.3520374,
+  "lon": 45.8616829,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702321071,
+  "lat": -24.9409079,
+  "lon": 46.2622221,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8702473387,
+  "lat": -24.8465641,
+  "lon": 46.8115063,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702473388,
+  "lat": -24.8471982,
+  "lon": 46.8105233,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702531463,
+  "lat": -25.1817554,
+  "lon": 46.2792745,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702598581,
+  "lat": -25.1524549,
+  "lon": 46.3500940,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8702608835,
+  "lat": -25.1364709,
+  "lon": 46.5656128,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8702723433,
+  "lat": -25.1073282,
+  "lon": 46.4313870,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8702724871,
+  "lat": -25.0890744,
+  "lon": 46.5962678,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702774831,
+  "lat": -25.0784529,
+  "lon": 46.6214039,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702911737,
+  "lat": -25.0746912,
+  "lon": 46.6210484,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702954049,
+  "lat": -25.0702803,
+  "lon": 46.6245887,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702978379,
+  "lat": -24.9889146,
+  "lon": 46.6168821,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8702992131,
+  "lat": -25.0105320,
+  "lon": 46.6200900,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8703021514,
+  "lat": -25.0917552,
+  "lon": 46.2673206,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8703048729,
+  "lat": -24.9060854,
+  "lon": 46.2598851,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8703668699,
+  "lat": -25.1602957,
+  "lon": 46.2098428,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8703715839,
+  "lat": -24.8455528,
+  "lon": 46.8109685,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8705077726,
+  "lat": -24.8803342,
+  "lon": 46.0348410,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8705110426,
+  "lat": -24.8763187,
+  "lon": 46.0784182,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8705135636,
+  "lat": -25.0244167,
+  "lon": 46.0403259,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8705135666,
+  "lat": -25.0232052,
+  "lon": 46.0402473,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8705135724,
+  "lat": -25.0222535,
+  "lon": 46.0405489,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8705176066,
+  "lat": -24.8466886,
+  "lon": 46.0342878,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8705192853,
+  "lat": -25.0081024,
+  "lon": 46.1443264,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8706968016,
+  "lat": -25.3368590,
+  "lon": 45.7770213,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8709389877,
+  "lat": -24.8513864,
+  "lon": 46.1361094,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8709420184,
+  "lat": -25.1630013,
+  "lon": 46.4195670,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8709449703,
+  "lat": -25.1638930,
+  "lon": 46.4198061,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8709865858,
+  "lat": -24.9727996,
+  "lon": 46.1741545,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8710384133,
+  "lat": -25.2739381,
+  "lon": 45.8595333,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8710399415,
+  "lat": -25.0559005,
+  "lon": 46.3892880,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8711310843,
+  "lat": -25.0750995,
+  "lon": 46.0787736,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8717044232,
+  "lat": -24.9067261,
+  "lon": 46.4080361,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8720676193,
+  "lat": -24.9082658,
+  "lon": 45.9631676,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8720702671,
+  "lat": -25.3383733,
+  "lon": 45.8290894,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8720721222,
+  "lat": -25.3376806,
+  "lon": 45.8277542,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8720721269,
+  "lat": -25.3373405,
+  "lon": 45.8313635,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8720721389,
+  "lat": -25.3387617,
+  "lon": 45.8316335,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8720780672,
+  "lat": -24.9642109,
+  "lon": 45.9972544,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8720785514,
+  "lat": -24.8892104,
+  "lon": 45.9925121,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8720797018,
+  "lat": -25.1588451,
+  "lon": 45.7726952,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8721454570,
+  "lat": -25.1587411,
+  "lon": 46.2928016,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8721461099,
+  "lat": -25.1556824,
+  "lon": 46.2943031,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8721497528,
+  "lat": -24.9664202,
+  "lon": 46.6697258,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8721508420,
+  "lat": -24.9570070,
+  "lon": 45.9262743,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8724992700,
+  "lat": -25.2780675,
+  "lon": 45.9757271,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8724994532,
+  "lat": -25.2812234,
+  "lon": 45.9768905,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8725009854,
+  "lat": -25.2768419,
+  "lon": 45.9775190,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8725009873,
+  "lat": -25.2761616,
+  "lon": 45.9797338,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8725017819,
+  "lat": -24.9966997,
+  "lon": 45.9031100,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8725221147,
+  "lat": -24.8272026,
+  "lon": 46.4727349,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8725221171,
+  "lat": -24.8283104,
+  "lon": 46.4723462,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8725225079,
+  "lat": -24.9098395,
+  "lon": 46.5104108,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8725225115,
+  "lat": -24.9132651,
+  "lon": 46.5130503,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8725280020,
+  "lat": -24.8328662,
+  "lon": 46.6894702,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8725284752,
+  "lat": -24.8360130,
+  "lon": 46.6913224,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8725295379,
+  "lat": -24.8370208,
+  "lon": 46.6892970,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8731772588,
+  "lat": -25.0380666,
+  "lon": 46.3746091,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8731803097,
+  "lat": -24.9750066,
+  "lon": 46.0470521,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8731803110,
+  "lat": -24.9756397,
+  "lon": 46.0484196,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8731818781,
+  "lat": -25.3322398,
+  "lon": 45.8909067,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8731818804,
+  "lat": -25.3318789,
+  "lon": 45.8897461,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8731824575,
+  "lat": -24.9532439,
+  "lon": 46.3259043,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8731854667,
+  "lat": -25.0762655,
+  "lon": 46.5102022,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8731867980,
+  "lat": -24.9578540,
+  "lon": 46.0918600,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8731867989,
+  "lat": -24.9583563,
+  "lon": 46.0906787,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8731882446,
+  "lat": -25.1233501,
+  "lon": 45.9031166,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8731883859,
+  "lat": -25.1261618,
+  "lon": 45.9048586,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8731883891,
+  "lat": -25.1260043,
+  "lon": 45.9033266,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8731906350,
+  "lat": -25.1957004,
+  "lon": 46.1779001,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8731906351,
+  "lat": -25.1930657,
+  "lon": 46.1782305,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8731906352,
+  "lat": -25.1946148,
+  "lon": 46.1807998,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8732010178,
+  "lat": -25.2158626,
+  "lon": 45.7739303,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8732010889,
+  "lat": -25.2159010,
+  "lon": 45.7724840,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8732184345,
+  "lat": -25.1723504,
+  "lon": 46.3532498,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8732184346,
+  "lat": -25.1693098,
+  "lon": 46.3534945,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8732184347,
+  "lat": -25.1726862,
+  "lon": 46.3546313,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8747236340,
+  "lat": -24.9334281,
+  "lon": 46.6514142,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8757065591,
+  "lat": -25.1041324,
+  "lon": 45.7833821,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8757065592,
+  "lat": -25.1060609,
+  "lon": 45.7824057,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8759653000,
+  "lat": -25.1116081,
+  "lon": 45.7750243,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8759653011,
+  "lat": -25.1149742,
+  "lon": 45.7750940,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8759653013,
+  "lat": -25.1178594,
+  "lon": 45.7738548,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8762535095,
+  "lat": -25.1800385,
+  "lon": 45.7721854,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8769432492,
+  "lat": -25.1446844,
+  "lon": 45.7503249,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8779669088,
+  "lat": -25.1505023,
+  "lon": 45.7530329,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8785573406,
+  "lat": -25.1591701,
+  "lon": 45.9262120,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8785579576,
+  "lat": -25.0561773,
+  "lon": 45.9038052,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8785586373,
+  "lat": -24.8991429,
+  "lon": 46.4044181,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786355342,
+  "lat": -25.2874686,
+  "lon": 45.8264514,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786365331,
+  "lat": -24.9469019,
+  "lon": 46.6457291,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8786366367,
+  "lat": -25.3008723,
+  "lon": 45.7550645,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786508179,
+  "lat": -25.2838293,
+  "lon": 45.7204656,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786518018,
+  "lat": -25.3264305,
+  "lon": 45.7088962,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786523434,
+  "lat": -25.3457618,
+  "lon": 45.8714660,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786525718,
+  "lat": -25.2799764,
+  "lon": 45.8720229,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8786527931,
+  "lat": -25.1118763,
+  "lon": 46.0818443,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786528467,
+  "lat": -24.9960384,
+  "lon": 46.0827144,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786530187,
+  "lat": -24.8402449,
+  "lon": 46.4508812,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786539509,
+  "lat": -24.9377272,
+  "lon": 45.9712013,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786540437,
+  "lat": -24.8336848,
+  "lon": 46.4475272,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8786550803,
+  "lat": -25.0080629,
+  "lon": 46.0687711,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786550837,
+  "lat": -24.9345922,
+  "lon": 46.1664586,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786556377,
+  "lat": -24.9705094,
+  "lon": 46.1011363,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786557996,
+  "lat": -24.9496594,
+  "lon": 46.3221527,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786566818,
+  "lat": -25.0002014,
+  "lon": 46.2419169,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8786571845,
+  "lat": -24.9840562,
+  "lon": 46.0472980,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786571874,
+  "lat": -24.9797556,
+  "lon": 46.2092427,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786578711,
+  "lat": -24.9655388,
+  "lon": 46.0497739,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786586080,
+  "lat": -25.0822886,
+  "lon": 46.1030710,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786593191,
+  "lat": -24.9046981,
+  "lon": 46.0119890,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786601399,
+  "lat": -24.9505261,
+  "lon": 46.1649279,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786604618,
+  "lat": -25.0738676,
+  "lon": 46.1677928,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786606981,
+  "lat": -24.8953122,
+  "lon": 45.9948717,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786632640,
+  "lat": -25.0962145,
+  "lon": 46.0730739,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786673722,
+  "lat": -24.9907551,
+  "lon": 46.0518391,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786687364,
+  "lat": -25.1803240,
+  "lon": 46.0003520,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786768684,
+  "lat": -25.0518942,
+  "lon": 46.0185070,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786813319,
+  "lat": -25.1004841,
+  "lon": 46.0959208,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786813705,
+  "lat": -24.9959125,
+  "lon": 45.9705485,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786817195,
+  "lat": -25.1633057,
+  "lon": 46.1684520,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786818386,
+  "lat": -24.8323987,
+  "lon": 46.4957098,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786818392,
+  "lat": -24.8316422,
+  "lon": 46.4945858,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786829703,
+  "lat": -25.1217192,
+  "lon": 46.2072359,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8786838156,
+  "lat": -25.2703494,
+  "lon": 45.7238428,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8786843336,
+  "lat": -25.0119889,
+  "lon": 46.5020757,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786850471,
+  "lat": -25.0083288,
+  "lon": 46.1837219,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786852974,
+  "lat": -24.9365263,
+  "lon": 46.0541250,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786853000,
+  "lat": -24.9369981,
+  "lon": 46.0555182,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786853215,
+  "lat": -25.2921254,
+  "lon": 45.7066208,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786858607,
+  "lat": -24.9403221,
+  "lon": 46.6554469,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786860919,
+  "lat": -24.9643330,
+  "lon": 45.9282069,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786866608,
+  "lat": -25.1392055,
+  "lon": 46.1227382,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786871801,
+  "lat": -24.9286224,
+  "lon": 46.6509556,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8786883491,
+  "lat": -25.2788252,
+  "lon": 45.7136729,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787032589,
+  "lat": -24.8495629,
+  "lon": 46.0562770,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787098278,
+  "lat": -24.9409729,
+  "lon": 46.0786907,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787117610,
+  "lat": -25.2781899,
+  "lon": 45.8890842,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787135405,
+  "lat": -25.0255402,
+  "lon": 46.2202381,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787143818,
+  "lat": -25.0490917,
+  "lon": 46.1778644,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787150802,
+  "lat": -25.0991524,
+  "lon": 46.2818666,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8787163909,
+  "lat": -25.0972229,
+  "lon": 46.1104401,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787167641,
+  "lat": -25.0162976,
+  "lon": 46.1040802,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8787168773,
+  "lat": -24.7345345,
+  "lon": 46.0918258,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787169454,
+  "lat": -24.8254081,
+  "lon": 46.4918135,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8787172178,
+  "lat": -25.0931033,
+  "lon": 45.9412373,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8787181060,
+  "lat": -24.7680867,
+  "lon": 46.0501370,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8787181487,
+  "lat": -24.7953156,
+  "lon": 46.1059773,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8787192260,
+  "lat": -25.1203387,
+  "lon": 46.0879572,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8787235820,
+  "lat": -25.0528113,
+  "lon": 46.0848009,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787241994,
+  "lat": -24.9809075,
+  "lon": 46.2032817,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8787242870,
+  "lat": -24.9483706,
+  "lon": 46.1371679,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8787245130,
+  "lat": -25.0531333,
+  "lon": 46.1309603,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788148114,
+  "lat": -24.9372448,
+  "lon": 46.0421124,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788262772,
+  "lat": -24.9533214,
+  "lon": 46.2637143,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788274206,
+  "lat": -25.0671870,
+  "lon": 46.1879957,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788289398,
+  "lat": -25.0051092,
+  "lon": 46.2433923,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788297571,
+  "lat": -25.0035581,
+  "lon": 46.1885614,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788298276,
+  "lat": -24.9671879,
+  "lon": 46.1951385,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788303284,
+  "lat": -24.9901476,
+  "lon": 46.1871950,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788306046,
+  "lat": -24.9655399,
+  "lon": 46.1950918,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788306277,
+  "lat": -24.9004355,
+  "lon": 46.1754201,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788307106,
+  "lat": -25.0409976,
+  "lon": 46.1826215,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788327525,
+  "lat": -25.0396014,
+  "lon": 46.2403326,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788333774,
+  "lat": -25.1161124,
+  "lon": 46.1613693,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788348137,
+  "lat": -25.1074081,
+  "lon": 46.0977332,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788373446,
+  "lat": -24.9727880,
+  "lon": 46.1664834,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788373503,
+  "lat": -24.9719711,
+  "lon": 46.1675422,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788383385,
+  "lat": -25.0219353,
+  "lon": 46.2630872,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788393181,
+  "lat": -25.0049404,
+  "lon": 46.1945121,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788419387,
+  "lat": -25.0997924,
+  "lon": 45.9598200,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788427678,
+  "lat": -25.0628067,
+  "lon": 46.0883212,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788428179,
+  "lat": -25.1640321,
+  "lon": 46.1614515,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788437142,
+  "lat": -25.1396782,
+  "lon": 45.9763889,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788437147,
+  "lat": -25.1380623,
+  "lon": 45.9771154,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788461274,
+  "lat": -24.9884651,
+  "lon": 46.0240250,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788496696,
+  "lat": -25.3445144,
+  "lon": 45.7167685,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788636630,
+  "lat": -25.1616043,
+  "lon": 46.0491698,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788637296,
+  "lat": -25.0348155,
+  "lon": 46.0905787,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788639345,
+  "lat": -25.1655857,
+  "lon": 45.9571776,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8788662377,
+  "lat": -25.0941811,
+  "lon": 46.1346510,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788675053,
+  "lat": -25.0217732,
+  "lon": 46.3740090,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8788692370,
+  "lat": -24.9166873,
+  "lon": 46.1901658,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8789070785,
+  "lat": -25.1412832,
+  "lon": 46.3372140,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8789070797,
+  "lat": -25.1411496,
+  "lon": 46.3339806,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8789087618,
+  "lat": -25.1396612,
+  "lon": 46.3334877,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8789965184,
+  "lat": -24.7717147,
+  "lon": 46.1086635,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8789965191,
+  "lat": -24.7697691,
+  "lon": 46.1077072,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790071746,
+  "lat": -24.9704130,
+  "lon": 46.2011990,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790071747,
+  "lat": -24.9695984,
+  "lon": 46.2022070,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790071748,
+  "lat": -24.9696319,
+  "lon": 46.2038854,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790206670,
+  "lat": -24.7399996,
+  "lon": 46.2289160,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790212421,
+  "lat": -24.7535091,
+  "lon": 46.1400193,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790212422,
+  "lat": -24.7531185,
+  "lon": 46.1389627,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790226803,
+  "lat": -24.7458750,
+  "lon": 46.2204306,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790226813,
+  "lat": -24.7448058,
+  "lon": 46.2214753,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790234622,
+  "lat": -24.7453941,
+  "lon": 46.2197641,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790234632,
+  "lat": -24.7448253,
+  "lon": 46.2194543,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790237634,
+  "lat": -24.8626794,
+  "lon": 45.9897123,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790244892,
+  "lat": -24.8499344,
+  "lon": 46.0066288,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8790244901,
+  "lat": -24.8509490,
+  "lon": 46.0075249,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8791409292,
+  "lat": -24.9831739,
+  "lon": 45.9478952,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8791675841,
+  "lat": -25.2919566,
+  "lon": 45.6829150,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8791675846,
+  "lat": -25.2909422,
+  "lon": 45.6863059,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8791675856,
+  "lat": -25.2899629,
+  "lon": 45.6855669,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8791779978,
+  "lat": -24.9717675,
+  "lon": 46.0361413,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8791779983,
+  "lat": -24.9746237,
+  "lon": 46.0366795,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8791872751,
+  "lat": -25.0634355,
+  "lon": 46.0564329,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8791872804,
+  "lat": -25.0744312,
+  "lon": 46.0637842,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8791872838,
+  "lat": -25.0654554,
+  "lon": 46.0624241,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8791872843,
+  "lat": -25.0651379,
+  "lon": 46.0604231,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8791872870,
+  "lat": -25.0726803,
+  "lon": 46.0601747,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8793009817,
+  "lat": -25.0469064,
+  "lon": 45.9808047,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8793009826,
+  "lat": -25.0478516,
+  "lon": 45.9851338,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8793009837,
+  "lat": -25.0486191,
+  "lon": 45.9826111,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794343494,
+  "lat": -25.3222653,
+  "lon": 45.7151207,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794343499,
+  "lat": -25.3185632,
+  "lon": 45.7148649,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794343509,
+  "lat": -25.3214823,
+  "lon": 45.7184099,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794343510,
+  "lat": -25.3206319,
+  "lon": 45.7169782,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794343516,
+  "lat": -25.3255167,
+  "lon": 45.7227090,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8794354580,
+  "lat": -24.9886427,
+  "lon": 46.0452220,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794354586,
+  "lat": -24.9874681,
+  "lon": 46.0420342,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794382222,
+  "lat": -24.9207825,
+  "lon": 46.0139247,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794382231,
+  "lat": -24.9249856,
+  "lon": 46.0130970,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8794454464,
+  "lat": -24.8936003,
+  "lon": 46.0931901,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8794460886,
+  "lat": -24.8903047,
+  "lon": 46.0972162,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8794460892,
+  "lat": -24.8921453,
+  "lon": 46.0972010,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794469958,
+  "lat": -24.9063970,
+  "lon": 46.0560094,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8794484702,
+  "lat": -24.7741764,
+  "lon": 46.0239406,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794489970,
+  "lat": -24.9144200,
+  "lon": 46.0824252,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794505848,
+  "lat": -24.8402858,
+  "lon": 45.9970655,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794505865,
+  "lat": -24.8442566,
+  "lon": 46.0010836,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794517023,
+  "lat": -24.7758243,
+  "lon": 46.0319148,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794517657,
+  "lat": -24.7787802,
+  "lon": 46.0233240,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8794977695,
+  "lat": -24.9338567,
+  "lon": 45.9863061,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795021249,
+  "lat": -24.9585821,
+  "lon": 46.0458840,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8795021263,
+  "lat": -24.9622229,
+  "lon": 46.0455060,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795070241,
+  "lat": -24.8968221,
+  "lon": 46.1102120,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795070247,
+  "lat": -24.8950334,
+  "lon": 46.1105158,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8795070256,
+  "lat": -24.8986360,
+  "lon": 46.1084803,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795092555,
+  "lat": -24.7453112,
+  "lon": 46.0868664,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795092556,
+  "lat": -24.7464188,
+  "lon": 46.0873541,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795097280,
+  "lat": -24.7715884,
+  "lon": 46.1220492,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795105986,
+  "lat": -25.0220915,
+  "lon": 45.9978509,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795106001,
+  "lat": -25.0236880,
+  "lon": 46.0002437,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795106007,
+  "lat": -25.0228648,
+  "lon": 45.9995761,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8795113705,
+  "lat": -25.0097531,
+  "lon": 46.0892506,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8797828310,
+  "lat": -24.9483140,
+  "lon": 46.6608543,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8797871812,
+  "lat": -24.8519455,
+  "lon": 46.6731144,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8806321413,
+  "lat": -25.1319052,
+  "lon": 45.7910064,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8806321418,
+  "lat": -25.1266624,
+  "lon": 45.7885317,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8806321424,
+  "lat": -25.1271387,
+  "lon": 45.7913414,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8806321429,
+  "lat": -25.1224863,
+  "lon": 45.7908833,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8806321435,
+  "lat": -25.1224805,
+  "lon": 45.7881073,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8806351074,
+  "lat": -25.2478834,
+  "lon": 45.7690417,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8806366146,
+  "lat": -25.0547481,
+  "lon": 46.1409541,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8806400928,
+  "lat": -24.9247700,
+  "lon": 46.1428357,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8806411676,
+  "lat": -24.9593865,
+  "lon": 46.2639133,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8806669601,
+  "lat": -24.9868445,
+  "lon": 46.0300715,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8806684577,
+  "lat": -24.9829532,
+  "lon": 46.1831480,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8813381766,
+  "lat": -25.0543234,
+  "lon": 46.1942200,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8813385421,
+  "lat": -25.0578224,
+  "lon": 46.1965015,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8816293924,
+  "lat": -25.2216372,
+  "lon": 45.9260508,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8821291829,
+  "lat": -25.1164678,
+  "lon": 45.7791790,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8825249873,
+  "lat": -24.9983152,
+  "lon": 46.2893300,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8827915595,
+  "lat": -25.2962118,
+  "lon": 45.6954432,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8827915611,
+  "lat": -25.2924069,
+  "lon": 45.6941986,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8827915616,
+  "lat": -25.2937358,
+  "lon": 45.7012850,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8827919022,
+  "lat": -25.2910876,
+  "lon": 45.7014459,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8827919028,
+  "lat": -25.2917375,
+  "lon": 45.6998044,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8827919035,
+  "lat": -25.2956031,
+  "lon": 45.7009256,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8827919040,
+  "lat": -25.2938231,
+  "lon": 45.6967896,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8827919047,
+  "lat": -25.2949192,
+  "lon": 45.6946975,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8828089954,
+  "lat": -25.1546970,
+  "lon": 46.2038412,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8828089955,
+  "lat": -25.1501609,
+  "lon": 46.2067426,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8830046644,
+  "lat": -25.1535362,
+  "lon": 46.0300025,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8830049058,
+  "lat": -25.1532861,
+  "lon": 46.0277143,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8836921840,
+  "lat": -25.3321874,
+  "lon": 45.8937215,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8836933556,
+  "lat": -25.3289283,
+  "lon": 45.8946308,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8836933557,
+  "lat": -25.3303090,
+  "lon": 45.8931103,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8840510178,
+  "lat": -25.3672553,
+  "lon": 45.7317979,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8840510192,
+  "lat": -25.3684151,
+  "lon": 45.7294775,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8843030099,
+  "lat": -25.0204671,
+  "lon": 46.2066659,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8843030100,
+  "lat": -25.0229183,
+  "lon": 46.2068490,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8846109896,
+  "lat": -25.1055957,
+  "lon": 45.9952357,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8846109897,
+  "lat": -25.1056865,
+  "lon": 45.9894207,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8846109898,
+  "lat": -25.1075015,
+  "lon": 45.9887555,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8846109899,
+  "lat": -25.1046456,
+  "lon": 45.9875153,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8848342222,
+  "lat": -25.0661422,
+  "lon": 45.9746891,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8848342228,
+  "lat": -25.0645318,
+  "lon": 45.9785225,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8848342234,
+  "lat": -25.0634647,
+  "lon": 45.9762380,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8848342240,
+  "lat": -25.0653565,
+  "lon": 45.9769199,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8848347826,
+  "lat": -24.9842939,
+  "lon": 46.1346286,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8848559032,
+  "lat": -25.2977049,
+  "lon": 45.8483026,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8848559033,
+  "lat": -25.2971538,
+  "lon": 45.8507687,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8848559034,
+  "lat": -25.3008984,
+  "lon": 45.8487518,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8849331901,
+  "lat": -25.1483269,
+  "lon": 46.2564426,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8850668732,
+  "lat": -25.0287777,
+  "lon": 46.1206088,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8850674123,
+  "lat": -25.0300551,
+  "lon": 46.0650568,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850674130,
+  "lat": -25.0284496,
+  "lon": 46.0679181,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8850674135,
+  "lat": -25.0312410,
+  "lon": 46.0681469,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850674140,
+  "lat": -25.0320600,
+  "lon": 46.0716643,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850697932,
+  "lat": -25.0470603,
+  "lon": 46.0815075,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850697933,
+  "lat": -25.0435515,
+  "lon": 46.0826311,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850697944,
+  "lat": -25.0484792,
+  "lon": 46.0815003,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850697945,
+  "lat": -25.0478520,
+  "lon": 46.0830599,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850697955,
+  "lat": -25.0458452,
+  "lon": 46.0847926,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8850697985,
+  "lat": -25.0449610,
+  "lon": 46.0799655,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850702753,
+  "lat": -24.8860148,
+  "lon": 46.1233163,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8850702760,
+  "lat": -24.8828358,
+  "lon": 46.1250355,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8851656968,
+  "lat": -24.7872135,
+  "lon": 46.1462046,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8851656969,
+  "lat": -24.7895511,
+  "lon": 46.1461516,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8852363749,
+  "lat": -25.0162331,
+  "lon": 46.0799275,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8852385212,
+  "lat": -25.0488296,
+  "lon": 46.0976912,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8852385217,
+  "lat": -25.0444012,
+  "lon": 46.0955646,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8855267314,
+  "lat": -25.0223974,
+  "lon": 46.2668538,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8856592473,
+  "lat": -25.0711562,
+  "lon": 45.9631946,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8856598704,
+  "lat": -25.0797672,
+  "lon": 45.9632568,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8856600654,
+  "lat": -25.0832463,
+  "lon": 45.9655375,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8856611342,
+  "lat": -25.0660541,
+  "lon": 45.9672320,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8856630608,
+  "lat": -25.0663801,
+  "lon": 46.0201634,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8856630613,
+  "lat": -25.0668775,
+  "lon": 46.0168259,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8856634697,
+  "lat": -25.0592576,
+  "lon": 46.0136942,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8856634702,
+  "lat": -25.0596198,
+  "lon": 46.0121797,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8856648501,
+  "lat": -25.1179295,
+  "lon": 45.9568646,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8857207865,
+  "lat": -25.3000329,
+  "lon": 45.7694608,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8857843261,
+  "lat": -25.0690001,
+  "lon": 46.1069842,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8857850861,
+  "lat": -25.0668827,
+  "lon": 46.1044258,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8857852830,
+  "lat": -25.0700043,
+  "lon": 46.1053305,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8857862559,
+  "lat": -25.0411816,
+  "lon": 46.1597550,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8857875515,
+  "lat": -25.0415669,
+  "lon": 46.1562711,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8857878338,
+  "lat": -25.0425524,
+  "lon": 46.1537936,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859235976,
+  "lat": -24.9472889,
+  "lon": 46.1438820,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8859243804,
+  "lat": -25.0280496,
+  "lon": 46.1795283,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859243809,
+  "lat": -25.0274854,
+  "lon": 46.1815334,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859243816,
+  "lat": -25.0289402,
+  "lon": 46.1805292,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859255585,
+  "lat": -25.0857139,
+  "lon": 46.1989387,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859255614,
+  "lat": -25.0810854,
+  "lon": 46.1973885,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859257072,
+  "lat": -25.0816868,
+  "lon": 46.1958189,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859266097,
+  "lat": -25.1101763,
+  "lon": 46.1908066,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859268733,
+  "lat": -25.0506454,
+  "lon": 46.2277582,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859268791,
+  "lat": -25.0469628,
+  "lon": 46.2287120,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859269514,
+  "lat": -25.0975708,
+  "lon": 46.1399538,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8859277328,
+  "lat": -25.1102372,
+  "lon": 46.1884038,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8859284340,
+  "lat": -25.0930601,
+  "lon": 46.1423239,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8863206993,
+  "lat": -25.3216867,
+  "lon": 45.7751722,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8863207001,
+  "lat": -25.3233655,
+  "lon": 45.7764345,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8866155409,
+  "lat": -24.8389883,
+  "lon": 46.5263499,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8866155416,
+  "lat": -24.8410049,
+  "lon": 46.5245837,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8866288789,
+  "lat": -25.0827857,
+  "lon": 46.1802467,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8866294187,
+  "lat": -25.1953272,
+  "lon": 45.7207754,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8866294193,
+  "lat": -25.1949084,
+  "lon": 45.7196792,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8866313937,
+  "lat": -25.2839514,
+  "lon": 45.7925933,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8866313948,
+  "lat": -25.2849054,
+  "lon": 45.7939578,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8866319488,
+  "lat": -25.1160043,
+  "lon": 46.1054389,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8866320427,
+  "lat": -24.8598439,
+  "lon": 46.4436263,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8866320428,
+  "lat": -24.8593729,
+  "lon": 46.4421301,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8866332378,
+  "lat": -25.3330655,
+  "lon": 45.8978617,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8866345172,
+  "lat": -25.1602889,
+  "lon": 46.3046856,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8866356737,
+  "lat": -25.1675651,
+  "lon": 46.2857765,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8867330390,
+  "lat": -25.3270470,
+  "lon": 45.8066573,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8867389895,
+  "lat": -25.2984397,
+  "lon": 45.7029366,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8867395549,
+  "lat": -25.3005846,
+  "lon": 45.7051206,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8867397255,
+  "lat": -25.2828829,
+  "lon": 45.8291326,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8867397261,
+  "lat": -25.2839907,
+  "lon": 45.8285536,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8867399245,
+  "lat": -25.3279638,
+  "lon": 45.8048220,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8867403577,
+  "lat": -25.2421212,
+  "lon": 45.7441482,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8867405816,
+  "lat": -25.3102080,
+  "lon": 45.8437316,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8869295688,
+  "lat": -24.9643770,
+  "lon": 46.0224362,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8869304962,
+  "lat": -24.8262023,
+  "lon": 45.9865238,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8869305040,
+  "lat": -24.8296954,
+  "lon": 45.9818719,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8869307539,
+  "lat": -24.8509979,
+  "lon": 46.0788399,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8869312049,
+  "lat": -24.8788584,
+  "lon": 46.1185910,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8869312149,
+  "lat": -24.8809687,
+  "lon": 46.1209057,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8869314350,
+  "lat": -24.9229327,
+  "lon": 45.9466866,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8869316845,
+  "lat": -24.9922996,
+  "lon": 45.9813677,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8869335463,
+  "lat": -24.9377215,
+  "lon": 46.0976720,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8869335513,
+  "lat": -24.9356146,
+  "lon": 46.1005059,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8869336129,
+  "lat": -24.9371006,
+  "lon": 46.1035854,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8869337930,
+  "lat": -24.9560331,
+  "lon": 46.1154200,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8869337937,
+  "lat": -24.9552769,
+  "lon": 46.1161772,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871262505,
+  "lat": -25.0210773,
+  "lon": 46.0989807,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871264577,
+  "lat": -24.9171688,
+  "lon": 46.1813617,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8871270035,
+  "lat": -25.0176790,
+  "lon": 46.0937269,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871284942,
+  "lat": -25.0162823,
+  "lon": 46.1024017,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871288527,
+  "lat": -25.0191732,
+  "lon": 46.1048457,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871308024,
+  "lat": -25.0024143,
+  "lon": 46.1042944,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8871308030,
+  "lat": -25.0027372,
+  "lon": 46.1028387,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871308035,
+  "lat": -25.0021740,
+  "lon": 46.1032492,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871308040,
+  "lat": -25.0009504,
+  "lon": 46.1032681,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871308049,
+  "lat": -25.0049593,
+  "lon": 46.1044241,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8871347092,
+  "lat": -25.0339117,
+  "lon": 46.0812659,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871347097,
+  "lat": -25.0323872,
+  "lon": 46.0824305,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871355791,
+  "lat": -24.9455454,
+  "lon": 46.1458549,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871370886,
+  "lat": -24.9496349,
+  "lon": 46.1444375,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871370987,
+  "lat": -24.9486338,
+  "lon": 46.1475953,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8871370997,
+  "lat": -24.9487479,
+  "lon": 46.1501556,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8871371096,
+  "lat": -24.9450561,
+  "lon": 46.1478195,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8875627164,
+  "lat": -24.9497478,
+  "lon": 46.4151764,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875627165,
+  "lat": -24.9476734,
+  "lon": 46.4143878,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875627166,
+  "lat": -24.9469815,
+  "lon": 46.4134933,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875627167,
+  "lat": -24.9468441,
+  "lon": 46.4139251,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875627188,
+  "lat": -24.9481987,
+  "lon": 46.4146641,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875627189,
+  "lat": -24.9489939,
+  "lon": 46.4143087,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875629261,
+  "lat": -24.9471627,
+  "lon": 46.1439675,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655523,
+  "lat": -24.9473548,
+  "lon": 46.4139868,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655536,
+  "lat": -24.9476077,
+  "lon": 46.4148787,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655537,
+  "lat": -24.9472332,
+  "lon": 46.4144669,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655570,
+  "lat": -24.9472040,
+  "lon": 46.4151455,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655585,
+  "lat": -24.9467882,
+  "lon": 46.4154245,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655597,
+  "lat": -24.9461680,
+  "lon": 46.4151831,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655630,
+  "lat": -24.9467359,
+  "lon": 46.4147553,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655652,
+  "lat": -24.9463115,
+  "lon": 46.4138836,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8875655664,
+  "lat": -24.9450201,
+  "lon": 46.4158630,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875656899,
+  "lat": -25.0235946,
+  "lon": 46.1091551,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875659413,
+  "lat": -25.2658929,
+  "lon": 45.8378336,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875685297,
+  "lat": -24.9933222,
+  "lon": 46.1207074,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875689818,
+  "lat": -25.0572346,
+  "lon": 46.1253369,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8875694046,
+  "lat": -25.0208846,
+  "lon": 46.0973078,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875694084,
+  "lat": -25.0192052,
+  "lon": 46.1001617,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875694096,
+  "lat": -25.0190618,
+  "lon": 46.0900041,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8875694126,
+  "lat": -25.0142079,
+  "lon": 46.1051291,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875694127,
+  "lat": -25.0121102,
+  "lon": 46.1026588,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875707216,
+  "lat": -25.0286741,
+  "lon": 46.1465237,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8875711608,
+  "lat": -24.9763888,
+  "lon": 46.1729461,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8875723637,
+  "lat": -25.0242593,
+  "lon": 46.0772476,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875723690,
+  "lat": -25.0227780,
+  "lon": 46.0748792,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875723699,
+  "lat": -25.0204885,
+  "lon": 46.0705098,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875724266,
+  "lat": -25.0362614,
+  "lon": 46.0982425,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875726755,
+  "lat": -25.0797055,
+  "lon": 45.9393847,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875726756,
+  "lat": -25.0787435,
+  "lon": 45.9410369,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875729721,
+  "lat": -25.0134520,
+  "lon": 46.0797930,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875729730,
+  "lat": -25.0143270,
+  "lon": 46.0822418,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8875729738,
+  "lat": -25.0154013,
+  "lon": 46.0868043,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875729752,
+  "lat": -25.0140791,
+  "lon": 46.0893443,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8875729761,
+  "lat": -25.0143610,
+  "lon": 46.0927775,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875729773,
+  "lat": -25.0130072,
+  "lon": 46.0830304,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875729786,
+  "lat": -25.0112814,
+  "lon": 46.0979140,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875730663,
+  "lat": -25.0279207,
+  "lon": 46.1443725,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8875736647,
+  "lat": -24.9987190,
+  "lon": 46.1564720,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875740630,
+  "lat": -25.0367195,
+  "lon": 46.1019561,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875740636,
+  "lat": -25.0373295,
+  "lon": 46.1014719,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875745347,
+  "lat": -24.9782756,
+  "lon": 46.1749363,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875745352,
+  "lat": -24.9770939,
+  "lon": 46.1760896,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875750118,
+  "lat": -25.0578833,
+  "lon": 46.1236846,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875750127,
+  "lat": -25.0565712,
+  "lon": 46.1272037,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8875754754,
+  "lat": -25.0189743,
+  "lon": 46.1487177,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875754755,
+  "lat": -25.0202260,
+  "lon": 46.1484870,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8875825243,
+  "lat": -24.9960449,
+  "lon": 46.1572793,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8876260138,
+  "lat": -25.0546833,
+  "lon": 46.0593331,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8876260139,
+  "lat": -25.0555119,
+  "lon": 46.0611758,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8876676128,
+  "lat": -24.8944705,
+  "lon": 46.1458826,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8876676129,
+  "lat": -24.8926074,
+  "lon": 46.1518116,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8876676130,
+  "lat": -24.8917747,
+  "lon": 46.1504960,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8876676131,
+  "lat": -24.8928014,
+  "lon": 46.1494285,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8876676132,
+  "lat": -24.8945629,
+  "lon": 46.1481947,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8878910110,
+  "lat": -25.1539111,
+  "lon": 46.4710495,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8878915032,
+  "lat": -25.2978559,
+  "lon": 45.6762627,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8878926966,
+  "lat": -25.1702142,
+  "lon": 46.1896978,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8878926967,
+  "lat": -25.1707022,
+  "lon": 46.1897998,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8878926968,
+  "lat": -25.1704643,
+  "lon": 46.1893398,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8878927931,
+  "lat": -25.2312695,
+  "lon": 46.1717887,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8878943448,
+  "lat": -25.2185452,
+  "lon": 46.0938719,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8878943465,
+  "lat": -25.2176802,
+  "lon": 46.0947302,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8878969678,
+  "lat": -24.9650751,
+  "lon": 46.5502739,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8878969689,
+  "lat": -24.9680125,
+  "lon": 46.5532887,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8881199095,
+  "lat": -25.1387069,
+  "lon": 46.0703127,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8881199101,
+  "lat": -25.1371480,
+  "lon": 46.0669345,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8881605455,
+  "lat": -25.1710214,
+  "lon": 45.7438919,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8881639035,
+  "lat": -24.7305780,
+  "lon": 46.0684392,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8881639053,
+  "lat": -24.7318009,
+  "lon": 46.0665080,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8881646536,
+  "lat": -25.2605455,
+  "lon": 45.8999871,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8881687352,
+  "lat": -25.2711018,
+  "lon": 45.6806937,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8881703108,
+  "lat": -25.3412068,
+  "lon": 45.7031760,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8881734672,
+  "lat": -25.1246070,
+  "lon": 45.9692645,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8881739695,
+  "lat": -25.1618839,
+  "lon": 45.9745163,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8883592320,
+  "lat": -25.1372063,
+  "lon": 46.0289061,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8883598138,
+  "lat": -25.2658480,
+  "lon": 45.6788376,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8883654656,
+  "lat": -25.1067142,
+  "lon": 45.9054896,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8886431124,
+  "lat": -25.3262903,
+  "lon": 45.7096817,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8886511471,
+  "lat": -25.3014945,
+  "lon": 45.7437618,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8886513314,
+  "lat": -25.4394671,
+  "lon": 45.7157099,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8886517461,
+  "lat": -25.4428302,
+  "lon": 45.7130170,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8886517462,
+  "lat": -25.4424983,
+  "lon": 45.7107908,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8886517670,
+  "lat": -25.4377364,
+  "lon": 45.7082655,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8886517706,
+  "lat": -25.4368729,
+  "lon": 45.7092994,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8886517709,
+  "lat": -25.4337162,
+  "lon": 45.7058166,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8886517714,
+  "lat": -25.4342266,
+  "lon": 45.7048148,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8886517715,
+  "lat": -25.4327818,
+  "lon": 45.7056583,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8886517716,
+  "lat": -25.4320636,
+  "lon": 45.7051809,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8889099364,
+  "lat": -24.9932991,
+  "lon": 45.9995507,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8889126587,
+  "lat": -25.1007987,
+  "lon": 46.0783164,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8889127901,
+  "lat": -24.7398511,
+  "lon": 46.1889951,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8889151258,
+  "lat": -24.8512031,
+  "lon": 46.4323720,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8891436695,
+  "lat": -24.9728827,
+  "lon": 46.0205269,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8891480976,
+  "lat": -24.9740620,
+  "lon": 46.0151410,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8891496470,
+  "lat": -24.9271266,
+  "lon": 46.1767951,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8891504873,
+  "lat": -24.7434417,
+  "lon": 46.0748416,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8891508444,
+  "lat": -25.0137339,
+  "lon": 46.0640967,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8891524239,
+  "lat": -24.9405196,
+  "lon": 46.1270213,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8891562365,
+  "lat": -25.1536901,
+  "lon": 45.9055084,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8891574000,
+  "lat": -25.1520028,
+  "lon": 45.9060690,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8891574009,
+  "lat": -25.1529157,
+  "lon": 45.9015200,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8891574017,
+  "lat": -25.1571109,
+  "lon": 45.9083569,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8891574040,
+  "lat": -25.1575892,
+  "lon": 45.9058839,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8892388841,
+  "lat": -25.0676287,
+  "lon": 46.0736749,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8892388848,
+  "lat": -25.0719630,
+  "lon": 46.0718214,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8892403448,
+  "lat": -25.2829098,
+  "lon": 45.9113583,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8892425147,
+  "lat": -24.9751901,
+  "lon": 46.1330241,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8892425156,
+  "lat": -24.9739161,
+  "lon": 46.1383349,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8892425229,
+  "lat": -24.8960227,
+  "lon": 46.2015599,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8892425244,
+  "lat": -24.8945337,
+  "lon": 46.1993444,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8892442304,
+  "lat": -24.9436801,
+  "lon": 46.1457109,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8892442305,
+  "lat": -24.9424251,
+  "lon": 46.1450484,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8892442306,
+  "lat": -24.9415958,
+  "lon": 46.1456868,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8893773314,
+  "lat": -24.9442334,
+  "lon": 46.0555297,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8893775787,
+  "lat": -24.9688732,
+  "lon": 46.1891104,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8893785779,
+  "lat": -25.0456805,
+  "lon": 46.2515013,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8893787993,
+  "lat": -25.0077034,
+  "lon": 46.1785103,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8893810552,
+  "lat": -24.8943488,
+  "lon": 46.1932826,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8893810553,
+  "lat": -24.8922224,
+  "lon": 46.1920756,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8894001897,
+  "lat": -25.0781750,
+  "lon": 46.4793670,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8894019497,
+  "lat": -24.9579552,
+  "lon": 46.1421329,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8894051674,
+  "lat": -24.8077465,
+  "lon": 46.1620617,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8894057949,
+  "lat": -24.9224321,
+  "lon": 46.3908809,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8894061882,
+  "lat": -24.9329106,
+  "lon": 46.6304183,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8894061883,
+  "lat": -24.9341948,
+  "lon": 46.6301286,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8894082457,
+  "lat": -24.8063661,
+  "lon": 46.1622736,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8895199803,
+  "lat": -25.0892572,
+  "lon": 46.0805333,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8895202701,
+  "lat": -25.0662657,
+  "lon": 46.0266691,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8895283950,
+  "lat": -25.0623783,
+  "lon": 46.1258492,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8895283956,
+  "lat": -25.0651092,
+  "lon": 46.1215657,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8895283957,
+  "lat": -25.0643925,
+  "lon": 46.1219251,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8895292715,
+  "lat": -25.0155253,
+  "lon": 46.1700278,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8895321482,
+  "lat": -25.0227707,
+  "lon": 46.2010208,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8895321726,
+  "lat": -25.0172291,
+  "lon": 46.1707950,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8895330433,
+  "lat": -25.1615731,
+  "lon": 45.7657894,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8895335960,
+  "lat": -25.0319818,
+  "lon": 46.1772323,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8895335966,
+  "lat": -25.0292939,
+  "lon": 46.1747324,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8895369574,
+  "lat": -25.2742658,
+  "lon": 45.6899634,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8896816251,
+  "lat": -25.1011315,
+  "lon": 46.0833026,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8896817534,
+  "lat": -24.9384013,
+  "lon": 46.0055923,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8896818134,
+  "lat": -24.7807416,
+  "lon": 46.0993664,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8896818925,
+  "lat": -24.9814338,
+  "lon": 46.0334390,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8896834341,
+  "lat": -24.9593340,
+  "lon": 46.0219109,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8896844387,
+  "lat": -25.1276073,
+  "lon": 45.8270270,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8896844388,
+  "lat": -25.1264295,
+  "lon": 45.8258817,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8896845292,
+  "lat": -25.3213590,
+  "lon": 45.7047772,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8897360292,
+  "lat": -25.1325101,
+  "lon": 45.8588165,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8897360293,
+  "lat": -25.1301935,
+  "lon": 45.8561920,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8897394357,
+  "lat": -25.1791363,
+  "lon": 45.7515496,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8897409281,
+  "lat": -25.1273548,
+  "lon": 45.8955950,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8898008124,
+  "lat": -25.3630139,
+  "lon": 45.8228562,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8899783154,
+  "lat": -24.8636212,
+  "lon": 45.9762047,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8899793898,
+  "lat": -25.2371604,
+  "lon": 45.8836806,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8899793899,
+  "lat": -25.2393537,
+  "lon": 45.8889162,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899793900,
+  "lat": -25.2406686,
+  "lon": 45.8885676,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899793901,
+  "lat": -25.2408919,
+  "lon": 45.8866095,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899793902,
+  "lat": -25.2397758,
+  "lon": 45.8845174,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899793903,
+  "lat": -25.2417507,
+  "lon": 45.8874893,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8899793904,
+  "lat": -25.2358697,
+  "lon": 45.8866471,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8899803839,
+  "lat": -24.7840437,
+  "lon": 46.0352603,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899883462,
+  "lat": -25.3030343,
+  "lon": 45.8394979,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8899911022,
+  "lat": -25.1809956,
+  "lon": 46.0022128,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899919480,
+  "lat": -24.9424507,
+  "lon": 46.0036142,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899925138,
+  "lat": -25.0121078,
+  "lon": 46.3647951,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8899928446,
+  "lat": -25.2517798,
+  "lon": 45.9336823,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899933576,
+  "lat": -24.9918125,
+  "lon": 46.1507173,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899947790,
+  "lat": -25.0528816,
+  "lon": 45.9834185,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8899980611,
+  "lat": -25.1017569,
+  "lon": 46.0960767,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8900017921,
+  "lat": -24.9428544,
+  "lon": 46.3091084,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8900017932,
+  "lat": -24.9392829,
+  "lon": 46.3030815,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902727692,
+  "lat": -25.0682033,
+  "lon": 46.1718491,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902797241,
+  "lat": -24.7257298,
+  "lon": 46.1600125,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902797251,
+  "lat": -24.7295547,
+  "lon": 46.1677051,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8902797252,
+  "lat": -24.7328875,
+  "lon": 46.1635691,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902797253,
+  "lat": -24.7315573,
+  "lon": 46.1654520,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902797254,
+  "lat": -24.7294037,
+  "lon": 46.1637139,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902822755,
+  "lat": -24.7289554,
+  "lon": 46.1655258,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902822848,
+  "lat": -24.7278153,
+  "lon": 46.1645843,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902822909,
+  "lat": -24.7271429,
+  "lon": 46.1636442,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8902843732,
+  "lat": -25.1208052,
+  "lon": 46.2090594,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8905988779,
+  "lat": -25.0998867,
+  "lon": 46.0594135,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8905988780,
+  "lat": -25.0996001,
+  "lon": 46.0582361,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8905988781,
+  "lat": -25.1002559,
+  "lon": 46.0565221,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8906000398,
+  "lat": -25.0006710,
+  "lon": 46.0834891,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8906013710,
+  "lat": -24.9347056,
+  "lon": 46.0479578,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8906015358,
+  "lat": -25.1648408,
+  "lon": 46.1684279,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8906039823,
+  "lat": -25.2791785,
+  "lon": 45.7156147,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907861301,
+  "lat": -24.9424349,
+  "lon": 46.6609901,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907911863,
+  "lat": -25.0443877,
+  "lon": 46.5813607,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907911864,
+  "lat": -25.0453378,
+  "lon": 46.5813607,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907911865,
+  "lat": -25.0456246,
+  "lon": 46.5776888,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907911866,
+  "lat": -25.0458433,
+  "lon": 46.5799043,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907912505,
+  "lat": -24.9438795,
+  "lon": 46.6674167,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907920019,
+  "lat": -25.2902000,
+  "lon": 45.8700389,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907920025,
+  "lat": -25.2881483,
+  "lon": 45.8682042,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907920031,
+  "lat": -25.2834919,
+  "lon": 45.8672923,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8907920045,
+  "lat": -25.2831427,
+  "lon": 45.8693147,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907924310,
+  "lat": -24.8594913,
+  "lon": 46.6572672,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8907932599,
+  "lat": -25.0780657,
+  "lon": 46.5463927,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907932600,
+  "lat": -25.0767101,
+  "lon": 46.5459260,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8907941117,
+  "lat": -24.8574105,
+  "lon": 46.6616392,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8907951906,
+  "lat": -25.0497470,
+  "lon": 46.5858239,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8908441254,
+  "lat": -24.9983908,
+  "lon": 46.2853810,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909010153,
+  "lat": -25.0676117,
+  "lon": 45.9760612,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909044455,
+  "lat": -24.9839283,
+  "lon": 45.9684491,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909076536,
+  "lat": -24.7871242,
+  "lon": 46.3012093,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909685016,
+  "lat": -25.0545545,
+  "lon": 46.6386299,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909701292,
+  "lat": -25.0407304,
+  "lon": 46.6182679,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909701293,
+  "lat": -25.0404267,
+  "lon": 46.6212250,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909701294,
+  "lat": -25.0426575,
+  "lon": 46.6204861,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909701295,
+  "lat": -25.0438239,
+  "lon": 46.6184127,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909718184,
+  "lat": -25.0384267,
+  "lon": 46.5838096,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909718185,
+  "lat": -25.0365239,
+  "lon": 46.5832087,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909730031,
+  "lat": -25.0471700,
+  "lon": 46.6225487,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909730032,
+  "lat": -25.0460911,
+  "lon": 46.6209447,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909730033,
+  "lat": -25.0446720,
+  "lon": 46.6218272,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909735417,
+  "lat": -25.0581409,
+  "lon": 46.6417855,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909735418,
+  "lat": -25.0594857,
+  "lon": 46.6380747,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909735419,
+  "lat": -25.0594493,
+  "lon": 46.6390899,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909737526,
+  "lat": -25.0306208,
+  "lon": 46.5904292,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909737527,
+  "lat": -25.0309781,
+  "lon": 46.5890238,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909741257,
+  "lat": -24.9193854,
+  "lon": 46.4256732,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909741258,
+  "lat": -24.9196652,
+  "lon": 46.4229387,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909746374,
+  "lat": -24.8478870,
+  "lon": 46.4455578,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909747158,
+  "lat": -25.0211398,
+  "lon": 46.4986467,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8909747159,
+  "lat": -25.0225301,
+  "lon": 46.5004304,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909753223,
+  "lat": -25.0571471,
+  "lon": 46.6286829,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8909756731,
+  "lat": -24.8362341,
+  "lon": 46.5100233,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8910992131,
+  "lat": -24.9861419,
+  "lon": 46.3273314,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8910996935,
+  "lat": -25.0502075,
+  "lon": 46.1777996,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8910996936,
+  "lat": -25.0492719,
+  "lon": 46.1767857,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8911000029,
+  "lat": -24.8465288,
+  "lon": 46.0565476,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911000043,
+  "lat": -24.8486220,
+  "lon": 46.0566267,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911015683,
+  "lat": -24.9456767,
+  "lon": 46.0728943,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911015699,
+  "lat": -24.9448219,
+  "lon": 46.0748336,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911022638,
+  "lat": -24.9443781,
+  "lon": 46.0785457,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911022649,
+  "lat": -24.9349938,
+  "lon": 46.0637453,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911022666,
+  "lat": -24.9310560,
+  "lon": 46.0734040,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911051133,
+  "lat": -25.0242557,
+  "lon": 46.1999586,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911051145,
+  "lat": -25.0226018,
+  "lon": 46.2037392,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911051156,
+  "lat": -25.0138761,
+  "lon": 46.2139115,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911066259,
+  "lat": -25.3870115,
+  "lon": 45.7706711,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911076717,
+  "lat": -24.9700051,
+  "lon": 46.0000952,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911078559,
+  "lat": -25.0535328,
+  "lon": 46.1168168,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911078560,
+  "lat": -25.0544512,
+  "lon": 46.1166291,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911127214,
+  "lat": -24.7745048,
+  "lon": 46.0531895,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911134737,
+  "lat": -24.7680997,
+  "lon": 46.0501331,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911134778,
+  "lat": -24.7541254,
+  "lon": 46.0504282,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911134912,
+  "lat": -24.7532814,
+  "lon": 46.0489395,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911134958,
+  "lat": -24.7500710,
+  "lon": 46.0556705,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911135011,
+  "lat": -24.7471260,
+  "lon": 46.0484728,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8911139218,
+  "lat": -24.7771910,
+  "lon": 46.1156903,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8911150319,
+  "lat": -24.7746704,
+  "lon": 46.1157882,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911542673,
+  "lat": -24.8363570,
+  "lon": 46.4837202,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911542680,
+  "lat": -24.8333545,
+  "lon": 46.4852679,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8911575852,
+  "lat": -24.9746273,
+  "lon": 46.3426588,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911578926,
+  "lat": -24.8491307,
+  "lon": 46.4586174,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911587535,
+  "lat": -24.8470838,
+  "lon": 46.4541087,
+  "tags": {
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 8911591572,
+  "lat": -24.8406094,
+  "lon": 46.4441282,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911591578,
+  "lat": -24.8372856,
+  "lon": 46.4417088,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911658093,
+  "lat": -24.9009652,
+  "lon": 46.4150597,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911659020,
+  "lat": -24.8823195,
+  "lon": 46.4090878,
+  "tags": {
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 8911663861,
+  "lat": -24.9069487,
+  "lon": 46.4269406,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911663862,
+  "lat": -24.9074912,
+  "lon": 46.4240196,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911663863,
+  "lat": -24.9086978,
+  "lon": 46.4240277,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8911663864,
+  "lat": -24.9080920,
+  "lon": 46.4268708,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8911663865,
+  "lat": -24.9092379,
+  "lon": 46.4266214,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911668222,
+  "lat": -24.9030307,
+  "lon": 46.4146171,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911668342,
+  "lat": -24.9068392,
+  "lon": 46.4138675,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8911699228,
+  "lat": -24.9314415,
+  "lon": 46.2566793,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8912168387,
+  "lat": -25.1774573,
+  "lon": 46.2783976,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8912688646,
+  "lat": -25.1172766,
+  "lon": 46.0883412,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8912706250,
+  "lat": -24.7735587,
+  "lon": 46.0969028,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8912731304,
+  "lat": -25.1020788,
+  "lon": 46.1133863,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8913143168,
+  "lat": -25.1408898,
+  "lon": 46.0898043,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8913143169,
+  "lat": -25.1413499,
+  "lon": 46.0885450,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8913149961,
+  "lat": -25.1275612,
+  "lon": 46.2924948,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8913169424,
+  "lat": -25.1277724,
+  "lon": 46.3020931,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8913173156,
+  "lat": -25.1327481,
+  "lon": 46.3016331,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8913189022,
+  "lat": -25.1684943,
+  "lon": 45.8379382,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914470652,
+  "lat": -25.1436384,
+  "lon": 45.9703723,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914520494,
+  "lat": -25.1981458,
+  "lon": 45.8243555,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8914520495,
+  "lat": -25.1962309,
+  "lon": 45.8251467,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914524185,
+  "lat": -25.1022184,
+  "lon": 46.1426076,
+  "tags": {
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 8914530885,
+  "lat": -25.0366478,
+  "lon": 46.2915842,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914535442,
+  "lat": -25.0747860,
+  "lon": 46.1837044,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914535443,
+  "lat": -25.0750654,
+  "lon": 46.1870947,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914547225,
+  "lat": -25.0389856,
+  "lon": 46.2897697,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914547226,
+  "lat": -25.0409783,
+  "lon": 46.2901694,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914559706,
+  "lat": -25.0683527,
+  "lon": 46.1967668,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914559707,
+  "lat": -25.0669970,
+  "lon": 46.1930734,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8914559708,
+  "lat": -25.0663532,
+  "lon": 46.1937547,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8914559709,
+  "lat": -25.0639308,
+  "lon": 46.1937305,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8914559710,
+  "lat": -25.0624633,
+  "lon": 46.1954230,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8918719112,
+  "lat": -25.1110714,
+  "lon": 46.0758045,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8918774737,
+  "lat": -25.0795306,
+  "lon": 45.9977925,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8918778188,
+  "lat": -25.0086416,
+  "lon": 46.1386648,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8918884662,
+  "lat": -25.0256216,
+  "lon": 46.1370850,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8918957158,
+  "lat": -25.0411071,
+  "lon": 46.2554669,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8918957159,
+  "lat": -25.0422249,
+  "lon": 46.2564352,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8922974636,
+  "lat": -24.9331830,
+  "lon": 46.2811276,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8922974641,
+  "lat": -24.9353063,
+  "lon": 46.2796980,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8923015221,
+  "lat": -24.7775952,
+  "lon": 46.0373685,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8923028164,
+  "lat": -24.8205828,
+  "lon": 46.1015618,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8923041095,
+  "lat": -24.9397499,
+  "lon": 46.2830991,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8923041096,
+  "lat": -24.9397255,
+  "lon": 46.2861299,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8923045007,
+  "lat": -24.9439719,
+  "lon": 46.2845595,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925853891,
+  "lat": -24.9462945,
+  "lon": 46.2829301,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925853892,
+  "lat": -24.9495630,
+  "lon": 46.2838393,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925864702,
+  "lat": -24.9856496,
+  "lon": 46.3101169,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8925867200,
+  "lat": -24.9401439,
+  "lon": 46.2561831,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925873768,
+  "lat": -24.9523742,
+  "lon": 46.3083386,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925873779,
+  "lat": -24.9495362,
+  "lon": 46.3073945,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925878383,
+  "lat": -24.9486802,
+  "lon": 46.3167152,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925878384,
+  "lat": -24.9497721,
+  "lon": 46.3160822,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925878398,
+  "lat": -24.9449289,
+  "lon": 46.3135314,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925886783,
+  "lat": -24.9903684,
+  "lon": 46.3150844,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925901460,
+  "lat": -24.9926488,
+  "lon": 46.3098085,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8925901468,
+  "lat": -24.9955806,
+  "lon": 46.3060105,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8929087713,
+  "lat": -25.1481874,
+  "lon": 45.9414656,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8929246345,
+  "lat": -25.2924771,
+  "lon": 45.8478915,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8929642522,
+  "lat": -25.1452099,
+  "lon": 46.1130213,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8929642523,
+  "lat": -25.1462302,
+  "lon": 46.1108017,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8930167796,
+  "lat": -25.0425967,
+  "lon": 46.2198606,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8930209546,
+  "lat": -24.9204034,
+  "lon": 46.2036520,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8930209547,
+  "lat": -24.9182482,
+  "lon": 46.2023753,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8930209548,
+  "lat": -24.9185791,
+  "lon": 46.2008464,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8930222671,
+  "lat": -25.0901341,
+  "lon": 46.1185858,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8930234710,
+  "lat": -25.1249409,
+  "lon": 46.0887435,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8930235408,
+  "lat": -25.1219321,
+  "lon": 46.0880998,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8930251003,
+  "lat": -25.1473290,
+  "lon": 46.0824940,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8930252201,
+  "lat": -25.1391246,
+  "lon": 46.1255541,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8930252202,
+  "lat": -25.1425895,
+  "lon": 46.1260772,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8930264532,
+  "lat": -25.1442466,
+  "lon": 46.0505730,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8930264538,
+  "lat": -25.1450333,
+  "lon": 46.0485573,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8932326550,
+  "lat": -25.1220948,
+  "lon": 46.1736461,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8932328347,
+  "lat": -25.1236793,
+  "lon": 46.1411740,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8932328348,
+  "lat": -25.1236490,
+  "lon": 46.1423474,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8932328349,
+  "lat": -25.1274276,
+  "lon": 46.1371493,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8932328365,
+  "lat": -25.1249555,
+  "lon": 46.1393487,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8932341761,
+  "lat": -25.1459560,
+  "lon": 46.1406335,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8932352049,
+  "lat": -25.2301182,
+  "lon": 45.7424073,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8932352054,
+  "lat": -25.2320884,
+  "lon": 45.7455079,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8932352067,
+  "lat": -25.2310645,
+  "lon": 45.7456742,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8932378960,
+  "lat": -25.2345304,
+  "lon": 45.7411534,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8932378961,
+  "lat": -25.2325797,
+  "lon": 45.7384872,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8932408487,
+  "lat": -25.2438032,
+  "lon": 45.7771164,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8932416902,
+  "lat": -25.2478134,
+  "lon": 45.7723019,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8932427685,
+  "lat": -25.2644229,
+  "lon": 45.7428324,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8932427686,
+  "lat": -25.2648984,
+  "lon": 45.7402521,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8932427687,
+  "lat": -25.2681584,
+  "lon": 45.7461262,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936465307,
+  "lat": -25.1748956,
+  "lon": 46.3406593,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8936484731,
+  "lat": -24.9986669,
+  "lon": 46.1241026,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936484732,
+  "lat": -24.9997556,
+  "lon": 46.1240936,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936484733,
+  "lat": -25.0010179,
+  "lon": 46.1229275,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936492871,
+  "lat": -25.0534345,
+  "lon": 46.1027982,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936492872,
+  "lat": -25.0533503,
+  "lon": 46.1041213,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936493705,
+  "lat": -25.0790253,
+  "lon": 46.0313952,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936493706,
+  "lat": -25.0803074,
+  "lon": 46.0325181,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936493707,
+  "lat": -25.0849079,
+  "lon": 46.0349252,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936493708,
+  "lat": -25.0847268,
+  "lon": 46.0370734,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936501822,
+  "lat": -25.1763909,
+  "lon": 46.3416141,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936501827,
+  "lat": -25.1767380,
+  "lon": 46.3382560,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936504825,
+  "lat": -24.9666213,
+  "lon": 46.1131814,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8936515963,
+  "lat": -24.9750238,
+  "lon": 46.3301980,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8936515964,
+  "lat": -24.9740170,
+  "lon": 46.3302872,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936517873,
+  "lat": -25.0047430,
+  "lon": 46.2592066,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8936520210,
+  "lat": -25.3363767,
+  "lon": 45.8244319,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936561540,
+  "lat": -24.9732256,
+  "lon": 46.3428318,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936573678,
+  "lat": -25.2348410,
+  "lon": 46.0732591,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8936573713,
+  "lat": -25.2327422,
+  "lon": 46.0721728,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8936580794,
+  "lat": -25.3395305,
+  "lon": 45.8221178,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936580809,
+  "lat": -25.3370270,
+  "lon": 45.8192291,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936583253,
+  "lat": -25.3390063,
+  "lon": 45.8205441,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936583257,
+  "lat": -25.3385269,
+  "lon": 45.8222339,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936583266,
+  "lat": -25.3379754,
+  "lon": 45.8228186,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936583267,
+  "lat": -25.3381469,
+  "lon": 45.8211865,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936585541,
+  "lat": -25.2302917,
+  "lon": 46.0719918,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8936596763,
+  "lat": -25.2282123,
+  "lon": 46.0738063,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8936596769,
+  "lat": -25.2261171,
+  "lon": 46.0758246,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8936606118,
+  "lat": -25.2278750,
+  "lon": 46.0756275,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936660498,
+  "lat": -25.0493752,
+  "lon": 46.3125893,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8936663118,
+  "lat": -25.0541512,
+  "lon": 46.3095684,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8936663119,
+  "lat": -25.0509972,
+  "lon": 46.3133799,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8946386706,
+  "lat": -25.2586837,
+  "lon": 45.9098589,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8946388819,
+  "lat": -25.2588487,
+  "lon": 45.9123212,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8946388820,
+  "lat": -25.2570851,
+  "lon": 45.9147942,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8948490771,
+  "lat": -25.2383881,
+  "lon": 45.8689070,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948490772,
+  "lat": -25.2413334,
+  "lon": 45.8655113,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948490800,
+  "lat": -25.2399020,
+  "lon": 45.8645564,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8948493674,
+  "lat": -25.0490071,
+  "lon": 46.5956810,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8948533868,
+  "lat": -25.0520420,
+  "lon": 46.5916228,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8948533883,
+  "lat": -25.0488321,
+  "lon": 46.5905875,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948533903,
+  "lat": -25.0467545,
+  "lon": 46.5922330,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948608205,
+  "lat": -25.1122881,
+  "lon": 46.1716855,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948608215,
+  "lat": -25.1085892,
+  "lon": 46.1701485,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948642408,
+  "lat": -24.8813803,
+  "lon": 46.2574142,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948642409,
+  "lat": -24.8817502,
+  "lon": 46.2541366,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948642410,
+  "lat": -24.8797792,
+  "lon": 46.2526989,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948895949,
+  "lat": -25.1309244,
+  "lon": 45.8432758,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948895959,
+  "lat": -25.1336514,
+  "lon": 45.8405185,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948907557,
+  "lat": -25.2387229,
+  "lon": 45.8655944,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8948939098,
+  "lat": -24.9345378,
+  "lon": 46.2453282,
+  "tags": {
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 8948939106,
+  "lat": -24.9298460,
+  "lon": 46.2456179,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8948939107,
+  "lat": -24.9310426,
+  "lon": 46.2457895,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8948944442,
+  "lat": -24.9258715,
+  "lon": 46.2472326,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8948944914,
+  "lat": -24.9323658,
+  "lon": 46.2448521,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8968508461,
+  "lat": -25.0600458,
+  "lon": 46.0775238,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8968533909,
+  "lat": -25.0526641,
+  "lon": 46.2518969,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8968533910,
+  "lat": -25.0514030,
+  "lon": 46.2504378,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8968533911,
+  "lat": -25.0479634,
+  "lon": 46.2472339,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8968563190,
+  "lat": -25.0755124,
+  "lon": 46.1627108,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8968622908,
+  "lat": -25.0823826,
+  "lon": 46.1414730,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8968622909,
+  "lat": -25.0822854,
+  "lon": 46.1373317,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8968622910,
+  "lat": -25.0822514,
+  "lon": 46.1393595,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8968623003,
+  "lat": -25.0896653,
+  "lon": 46.1360952,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8968623004,
+  "lat": -25.0854726,
+  "lon": 46.1343411,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8968623025,
+  "lat": -25.0814740,
+  "lon": 46.1348373,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8971597151,
+  "lat": -25.0456756,
+  "lon": 46.2202924,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8971597163,
+  "lat": -25.0479598,
+  "lon": 46.2227118,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8972019837,
+  "lat": -25.1062600,
+  "lon": 46.2682772,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8972019847,
+  "lat": -25.1126233,
+  "lon": 46.2728476,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8972019857,
+  "lat": -25.1111904,
+  "lon": 46.2718821,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8972117767,
+  "lat": -25.0621608,
+  "lon": 46.2576489,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8972117976,
+  "lat": -25.0624852,
+  "lon": 46.2532085,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8972327016,
+  "lat": -25.1839581,
+  "lon": 46.1834885,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8972356204,
+  "lat": -25.1204094,
+  "lon": 46.1188084,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8972366295,
+  "lat": -25.0440621,
+  "lon": 46.1984432,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8972366308,
+  "lat": -25.0397025,
+  "lon": 46.1948329,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8972387517,
+  "lat": -25.1821656,
+  "lon": 46.1836910,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8972401820,
+  "lat": -25.0425652,
+  "lon": 46.1928374,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8973869368,
+  "lat": -25.0995029,
+  "lon": 46.2044299,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8974004537,
+  "lat": -25.1622699,
+  "lon": 45.8899569,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8974004550,
+  "lat": -25.1634934,
+  "lon": 45.8993822,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8974184184,
+  "lat": -24.9669620,
+  "lon": 46.3052434,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8974702398,
+  "lat": -25.0736272,
+  "lon": 46.2118059,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8974746184,
+  "lat": -25.0677429,
+  "lon": 46.1562064,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8974746185,
+  "lat": -25.0674295,
+  "lon": 46.1574671,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8974776957,
+  "lat": -24.9227435,
+  "lon": 46.2251472,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8974832138,
+  "lat": -25.0947032,
+  "lon": 46.2481928,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8974832153,
+  "lat": -25.0931438,
+  "lon": 46.2460490,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8985606159,
+  "lat": -25.0448785,
+  "lon": 46.5966010,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8985702774,
+  "lat": -25.2350229,
+  "lon": 46.1498791,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986531924,
+  "lat": -25.1729609,
+  "lon": 46.1628395,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986531925,
+  "lat": -25.1721647,
+  "lon": 46.1593473,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986531926,
+  "lat": -25.1736212,
+  "lon": 46.1641753,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986531927,
+  "lat": -25.1704121,
+  "lon": 46.1577272,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8986541703,
+  "lat": -25.2027278,
+  "lon": 46.1910403,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986541704,
+  "lat": -25.2003786,
+  "lon": 46.1942053,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8986541705,
+  "lat": -25.2002621,
+  "lon": 46.1910510,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8986631856,
+  "lat": -25.0830239,
+  "lon": 46.0703865,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986698577,
+  "lat": -25.1480865,
+  "lon": 46.2790757,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986736694,
+  "lat": -24.9633098,
+  "lon": 46.1777258,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8986736695,
+  "lat": -24.9644478,
+  "lon": 46.1712456,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986760454,
+  "lat": -25.2507318,
+  "lon": 45.9520447,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8986788283,
+  "lat": -25.1536270,
+  "lon": 46.0269213,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8986788284,
+  "lat": -25.1503008,
+  "lon": 46.0264814,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8986791518,
+  "lat": -25.1601141,
+  "lon": 46.3152641,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8986828366,
+  "lat": -25.0798415,
+  "lon": 46.2012058,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8986828367,
+  "lat": -25.0785394,
+  "lon": 46.1997789,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8987889272,
+  "lat": -25.0218204,
+  "lon": 46.1555707,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8987915681,
+  "lat": -25.1288798,
+  "lon": 45.9849715,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8987922957,
+  "lat": -25.0318432,
+  "lon": 46.1636603,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8987925029,
+  "lat": -25.0348397,
+  "lon": 46.1612436,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8987925144,
+  "lat": -25.1296277,
+  "lon": 46.0244965,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8989514551,
+  "lat": -24.9811469,
+  "lon": 46.1916518,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8989514552,
+  "lat": -24.9824209,
+  "lon": 46.1943126,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8989514553,
+  "lat": -24.9784044,
+  "lon": 46.1973596,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9022100438,
+  "lat": -24.8698948,
+  "lon": 46.2365440,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9022176345,
+  "lat": -25.2302892,
+  "lon": 46.0870188,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9022201646,
+  "lat": -25.2735624,
+  "lon": 45.9602147,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9022205629,
+  "lat": -25.1358101,
+  "lon": 46.4025217,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9022244772,
+  "lat": -25.2256840,
+  "lon": 45.9271324,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9022292679,
+  "lat": -25.2866641,
+  "lon": 45.9459078,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9022816894,
+  "lat": -25.1248450,
+  "lon": 46.3939869,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9023435089,
+  "lat": -25.2400087,
+  "lon": 45.9969503,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9054659042,
+  "lat": -25.1604660,
+  "lon": 46.1466582,
+  "tags": {
+    "place": "village"
+  }
+}
+
+  ]
+}
