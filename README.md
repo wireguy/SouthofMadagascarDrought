@@ -33,10 +33,19 @@ Information gathering on mapping projects in support of Médecins Sans Frontièr
   * 35-isolated_dwelling
 * 1625 residential areas (14759 nodes)
   
-
 ## project 10676
-* mapping still in progress
+* 2440 place nodes
+  * 1448-hamlet
+  * 885-village
+  * 106-isolated_dwelling
+  * 1-suburb
+* 2440 residential areas 
 
 ## project 10738
-* mapping still in progress
-
+* 1331 place nodes 
+  * 922-hamlet
+  * 321-village
+  * 83-isolated_dwelling
+  * 5-town
+* 1331 residential areas
+  
