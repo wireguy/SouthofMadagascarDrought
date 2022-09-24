@@ -4,7 +4,7 @@ Information gathering on mapping projects in support of Médecins Sans Frontièr
 | filetype | description |
 | -------- | ----------- |
 | *.geojson |  the multipolygon information from the AOI (area of interest) |
-| *.osm    | the overpass turbo query| 
+| *.overpassql    | the overpass turbo query| 
 | *.json   | output for place information from overpass turbo |
 
 
